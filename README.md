@@ -60,7 +60,7 @@ By the end of this lab, you will have a strong understanding of how to manipulat
 
 ## Getting Started
 
-Complete the challenges in the `src` directory. Follow the instructions and add your code and explanations as necessary.
+Complete the challenges in the `Jupyter Notebook` file. Follow the instructions and add your code and explanations as necessary.
 
 ## Submission
 
