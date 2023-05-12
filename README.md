@@ -52,6 +52,65 @@ By the end of this lab, you will have a strong understanding of how to manipulat
 
 **Happy coding!** :heart:
 
+## Important Notes
+
+This lab is built on top of the `data cleaning and formatting` lab. If you couldn't complete the `data cleaning and formatting` lab, ask your TA for the `data cleaning and formatting` lab solution so you can do this lab on top of it.
+
+## About the dataset
+
+### Context
+This is customer data with their vehicle insurance policies. It has the same data as the dataset we were using before, but has a couple of new features.
+
+### New Data Description
+
+- Customer - Customer ID
+
+- ST - State where customers live
+
+- Customer Lifetime Value - Customer lifetime value(CLV) is the total revenue the client will derive from their entire relationship with a customer. In other words, is the predicted or calculated value of a customer over their entire duration as a policyholder with the insurance company. It is an estimation of the net profit that the insurance company expects to generate from a customer throughout their relationship with the company. Customer Lifetime Value takes into account factors such as the duration of the customer's policy, premium payments, claim history, renewal likelihood, and potential additional services or products the customer may purchase. It helps insurers assess the long-term profitability and value associated with retaining a particular customer.
+
+- Response - Whether the customer responded to a marketing campaign (yes or no)
+
+- Coverage - The type of coverage the customer has (e.g., basic, extended, premium)
+
+- Education - Background education of customers 
+
+- Effective To Date - The date when the policy becomes effective
+
+- EmploymentStatus - The employment status of the customer
+
+- Gender - Gender of the customer
+
+- Income - Customers income
+
+- Location Code - indicates if the customer lives in Rural, Suburban, or Urban location
+
+- Marital Status - The marital status of the customer
+
+- Monthly Premium Auto - Amount of money the customer pays on a monthly basis as a premium for their auto insurance coverage. It represents the recurring cost that the insured person must pay to maintain their insurance policy and receive coverage for potential damages, accidents, or other covered events related to their vehicle
+
+- Months Since Last Claim - The number of months since the customer's last claim
+
+- Months Since Policy Inception - The number of months since the policy was initiated
+
+- Number of Open Complaints - Number of complaints the customer opened
+
+- Number of Policies - The number of policies the customer holds
+
+- Policy Type - There are three type of policies in car insurance (Corporate Auto, Personal Auto, and Special Auto)
+
+- Policy - The specific policy identifier. There are three different policies for each policy type (Corporate L3, Corporate L2, Corporate L1, Personal L3,Personal L2, Personal L1,Special L3, Special L2, Special L1)
+
+- Renew Offer Type: The type of offer provided to the customer for policy renewal
+
+- Sales Channel - The channel through which the policy was sold.
+
+- Total Claim Amount - the sum of all claims made by the customer. It represents the total monetary value of all approved claims for incidents such as accidents, theft, vandalism, or other covered events.
+
+- Vehicle Class - Type of vehicle classes that customers have Two-Door Car, Four-Door Car SUV, Luxury SUV, Sports Car, and Luxury Car
+
+- Vehicle Size - The size category of the insured vehicle (e.g., small, midsize, large)
+- Vehicle Type - The type of vehicle insured (e.g., car, truck, motorcycle)
 
 ## Requirements
 
