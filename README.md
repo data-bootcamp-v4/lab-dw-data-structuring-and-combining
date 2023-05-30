@@ -54,7 +54,7 @@ By the end of this lab, you will have a strong understanding of how to manipulat
 
 ## Important Notes
 
-This lab is built on top of the `data cleaning and formatting` lab. If you couldn't complete the `data cleaning and formatting` lab, ask your TA for the `data cleaning and formatting` lab solution so you can do this lab on top of it.
+This lab is built on top of the `data cleaning and formatting` lab. If you couldn't complete the `data cleaning and formatting` lab, ask your LT for the `data cleaning and formatting` lab solution so you can do this lab on top of it.
 
 ## About the dataset
 
