@@ -1,0 +1,997 @@
+customer,gender,education,customer_lifetime_value,income,monthly_premium_auto,number_of_open_complaints,total_claim_amount,policy_type,vehicle_class
+GS98873,Female,Bachelor,323912.47,16061.0,88,0,633.6,Personal Auto,Four-Door Car
+CW49887,Female,Master,462680.11,79487.0,114,0,547.2,Special Auto,SUV
+MY31220,Female,College,899704.02,54230.0,112,0,537.6,Personal Auto,Two-Door Car
+UH35128,Female,College,2580706.3,71210.0,214,0,1027.2,Personal Auto,Luxury
+WH52799,Female,College,380812.21,94903.0,94,0,451.2,Corporate Auto,Two-Door Car
+WL99637,Male,Bachelor,761413.8,27293.0,96,0,469.030907,Personal Auto,Two-Door Car
+UC84059,Female,Master,689845.53,70950.0,171,0,565.929394,Personal Auto,Luxury
+HW62747,Male,College,229837.92,0.0,63,0,302.4,Corporate Auto,Four-Door Car
+BH11344,Female,Doctor,280669.61,37009.0,71,0,145.673348,Corporate Auto,Two-Door Car
+TX28465,Male,College,520611.82,52629.0,65,0,136.684141,Personal Auto,Four-Door Car
+OK56965,Female,Bachelor,4570865.34,31264.0,198,0,825.657746,Personal Auto,Luxury
+WT22392,Female,College,800734.91,65473.0,67,0,277.685667,Personal Auto,Four-Door Car
+PH85036,Female,Bachelor,548254.94,79325.0,68,0,251.294821,Corporate Auto,Four-Door Car
+KC71643,Male,High School or Below,246323.68,99144.0,61,0,292.8,Corporate Auto,Four-Door Car
+NR32615,Male,College,549894.07,22520.0,73,0,350.4,Corporate Auto,Four-Door Car
+GS69842,Female,Bachelor,524382.8,36615.0,65,0,264.563772,Special Auto,Four-Door Car
+WT71621,Female,Bachelor,328045.73,63297.0,82,0,251.756739,Personal Auto,Four-Door Car
+KD23847,Female,High School or Below,488654.43,76374.0,61,0,292.8,Personal Auto,Four-Door Car
+PE59368,Female,Bachelor,512348.5,72096.0,6464,0,252.330905,Personal Auto,Two-Door Car
+NK91488,Male,Master,547955.51,56005.0,68,0,326.4,Personal Auto,Four-Door Car
+CR33417,Female,Master,476215.7,36529.0,118,0,255.005116,Personal Auto,SUV
+WP73172,Female,Bachelor,828767.93,81367.0,103,0,415.768941,Special Auto,SUV
+PS30217,Female,Bachelor,988665.64,44817.0,83,0,527.421579,Personal Auto,Four-Door Car
+EL62967,Female,High School or Below,271291.56,58508.0,69,0,57.614392,Personal Auto,Two-Door Car
+MU23938,Male,Bachelor,1047767.63,45259.0,138,0,272.217171,Personal Auto,SUV
+VC83809,Male,Doctor,343613.43,30817.0,88,0,91.834668,Personal Auto,Four-Door Car
+VL34577,Female,High School or Below,259618.52,0.0,72,0,345.6,Personal Auto,Two-Door Car
+QE12539,Male,Doctor,1273195.16,40870.0,105,0,504.0,Personal Auto,SUV
+YO15246,Male,High School or Below,349414.79,35001.0,96,3,460.8,Personal Auto,Four-Door Car
+WF73839,Female,College,759791.07,49937.0,64,0,302.586407,Personal Auto,Two-Door Car
+TJ11671,Female,Bachelor,401521.45,0.0,109,0,523.2,Personal Auto,Four-Door Car
+SV34223,Female,College,2047710.84,58317.0,73,0,350.4,Personal Auto,Four-Door Car
+XD19546,Female,High School or Below,816068.98,0.0,109,0,523.2,Personal Auto,SUV
+OY95739,Male,High School or Below,1229868.63,17101.0,113,0,542.4,Corporate Auto,SUV
+SW57539,Female,College,871492.21,0.0,118,0,566.4,Corporate Auto,SUV
+IA62027,Female,Bachelor,485353.42,0.0,65,0,468.0,Personal Auto,Four-Door Car
+FZ20933,Male,High School or Below,488094.64,24398.0,63,0,302.4,Personal Auto,Four-Door Car
+WR62597,Male,College,231138.21,24641.0,61,0,294.92773,Corporate Auto,Four-Door Car
+KU61611,Male,High School or Below,432709.89,69040.0,108,0,518.4,Corporate Auto,Luxury
+XW98867,Male,High School or Below,1229868.63,17101.0,113,0,542.4,Personal Auto,SUV
+PP80817,Female,High School or Below,832353.33,59886.0,104,0,71.729298,Personal Auto,Luxury
+DT77901,Female,Bachelor,1017971.7,14290.0,271,0,1300.8,Personal Auto,Luxury
+DX34647,Female,College,776126.78,43137.0,96,0,460.8,Personal Auto,Two-Door Car
+OD56551,Male,College,523989.09,27978.0,69,0,447.911255,Personal Auto,Four-Door Car
+OO63074,Female,Bachelor,451790.88,25261.0,118,0,566.4,Personal Auto,SUV
+EH24828,Male,College,238977.41,58652.0,64,5,307.2,Personal Auto,Four-Door Car
+CX99919,Female,College,413062.88,28321.0,111,0,537.391704,Corporate Auto,SUV
+DG80424,Female,College,269156.9,77411.0,67,0,257.900458,Personal Auto,Four-Door Car
+NU32697,Male,College,522776.64,0.0,72,0,518.4,Corporate Auto,Four-Door Car
+PU98976,Female,Bachelor,618734.57,0.0,88,0,633.6,Personal Auto,Four-Door Car
+ZR20842,Male,College,511387.47,94415.0,127,0,492.770321,Personal Auto,Luxury
+NF35573,Male,High School or Below,1103931.62,0.0,103,0,1149.203884,Special Auto,SUV
+DF66914,Female,Bachelor,3222708.39,45331.0,100,0,572.635987,Personal Auto,SUV
+YM99866,Male,High School or Below,261196.59,53904.0,67,2,321.6,Personal Auto,Four-Door Car
+VH62084,Male,High School or Below,1337232.77,0.0,74,0,811.086484,Personal Auto,Four-Door Car
+SE28250,Male,Bachelor,483898.19,0.0,70,2,336.0,Special Auto,Four-Door Car
+MD86050,Male,High School or Below,472165.9,0.0,67,0,482.4,Personal Auto,Four-Door Car
+GF17866,Male,College,387364.7,28142.0,105,0,701.708239,Corporate Auto,Luxury
+UB16654,Male,Master,471855.85,15680.0,6464,0,260.879903,Personal Auto,Four-Door Car
+KO44736,Male,Bachelor,1697979.76,35095.0,73,0,525.6,Personal Auto,Two-Door Car
+KI55845,Female,College,1368171.18,55588.0,114,0,547.2,Personal Auto,SUV
+JJ24476,Female,Master,571722.19,52391.0,71,0,409.763267,Personal Auto,Two-Door Car
+VC68509,Female,Bachelor,948659.64,42240.0,79,0,46.386546,Personal Auto,Four-Door Car
+QN62502,Female,Bachelor,383914.37,70146.0,96,0,157.440069,Personal Auto,Four-Door Car
+EL92515,Female,College,1121159.03,41121.0,94,0,451.2,Personal Auto,Four-Door Car
+VL84149,Female,College,2580706.3,71210.0,214,0,1027.2,Corporate Auto,Luxury
+JX19907,Male,Bachelor,379832.17,0.0,107,0,1261.943541,Corporate Auto,Two-Door Car
+BC66921,Female,High School or Below,281656.74,41228.0,71,0,340.8,Personal Auto,Four-Door Car
+RK24470,Male,Bachelor,502929.7,40113.0,67,3,262.047663,Corporate Auto,Two-Door Car
+GN80437,Female,College,344496.75,0.0,91,0,596.050118,Special Auto,Four-Door Car
+AH65907,Female,Bachelor,285940.86,51790.0,71,0,340.8,Personal Auto,Four-Door Car
+VG57728,Male,High School or Below,269205.76,92593.0,68,0,8.44322,Corporate Auto,Four-Door Car
+AF81450,Male,High School or Below,1143173.09,28657.0,100,0,588.742251,Personal Auto,SUV
+YI28422,Male,High School or Below,763588.33,30262.0,98,0,499.22561,Personal Auto,Four-Door Car
+GR26937,Female,Master,980582.96,47197.0,81,0,76.112618,Corporate Auto,Four-Door Car
+BR99015,Female,Bachelor,680361.56,0.0,94,0,451.2,Personal Auto,Four-Door Car
+PB11270,Female,Bachelor,710765.54,0.0,61,0,541.561209,Personal Auto,Four-Door Car
+PZ89632,Female,High School or Below,473518.45,0.0,134,0,964.8,Personal Auto,SUV
+LV62981,Male,College,687432.67,22093.0,87,0,616.749885,Corporate Auto,Two-Door Car
+AS97690,Male,College,241125.66,54483.0,61,0,292.8,Personal Auto,Two-Door Car
+SG32258,Female,College,241654.24,18944.0,63,0,125.274351,Personal Auto,Four-Door Car
+MY80583,Female,Bachelor,2398154.34,84365.0,66,0,316.8,Personal Auto,Four-Door Car
+WS57286,Male,College,469216.52,0.0,64,0,137.169296,Personal Auto,Four-Door Car
+MF53477,Female,High School or Below,360093.43,25147.0,101,0,694.598288,Corporate Auto,SUV
+DQ28641,Male,High School or Below,266522.25,14315.0,71,0,511.2,Personal Auto,Four-Door Car
+EX46492,Female,Master,766652.04,87864.0,94,0,421.456547,Personal Auto,Two-Door Car
+VW20823,Male,High School or Below,1667589.62,57844.0,85,0,408.0,Personal Auto,Four-Door Car
+LH26563,Female,High School or Below,455085.6,17913.0,116,0,556.8,Personal Auto,Four-Door Car
+FR56877,Female,High School or Below,1176393.57,28806.0,99,0,475.2,Special Auto,Four-Door Car
+ZY99878,Male,High School or Below,1374253.72,90343.0,175,0,833.072722,Personal Auto,SUV
+CS15289,Female,Master,1613841.63,79041.0,199,0,419.26062,Personal Auto,Luxury
+MM49431,Male,Bachelor,729858.36,74069.0,63,2,275.516438,Personal Auto,Two-Door Car
+IA96447,Male,College,667373.77,85019.0,167,0,801.6,Personal Auto,Luxury
+PT32230,Female,High School or Below,778212.68,70059.0,194,0,253.740993,Personal Auto,Luxury
+NK73719,Female,College,1939321.15,70503.0,164,0,41.05291,Corporate Auto,SUV
+OH15771,Male,Bachelor,397413.82,0.0,117,0,561.6,Personal Auto,SUV
+XP61034,Male,Bachelor,410558.1,39492.0,105,0,756.0,Personal Auto,SUV
+ZN34245,Male,College,230847.21,0.0,68,0,489.6,Corporate Auto,Four-Door Car
+FX55923,Male,Bachelor,537291.45,50405.0,70,0,7.069583,Personal Auto,Four-Door Car
+ZZ83340,Female,Doctor,550831.55,96021.0,68,0,315.004602,Personal Auto,Two-Door Car
+HA99340,Male,High School or Below,239833.32,0.0,65,0,422.947888,Personal Auto,Two-Door Car
+LE43061,Male,High School or Below,372883.01,0.0,105,0,756.0,Personal Auto,Four-Door Car
+UF77413,Male,College,275849.86,65794.0,69,0,277.27294,Personal Auto,Four-Door Car
+UY45293,Male,Bachelor,370393.03,21975.0,95,0,456.0,Corporate Auto,Four-Door Car
+TH84309,Male,High School or Below,937284.36,0.0,126,0,604.8,Personal Auto,SUV
+PZ94551,Female,Bachelor,499158.45,56649.0,125,0,780.090361,Special Auto,SUV
+UE76013,Female,Master,503986.93,35984.0,128,3,275.577631,Personal Auto,SUV
+HS85465,Male,Bachelor,275997.83,92296.0,69,0,331.2,Corporate Auto,Two-Door Car
+SI78985,Female,Bachelor,799300.4,39448.0,103,3,66.020788,Personal Auto,Four-Door Car
+KF50730,Female,Bachelor,523557.35,71794.0,131,0,457.471225,Personal Auto,SUV
+JO13576,Female,High School or Below,263301.18,21861.0,69,0,348.278032,Personal Auto,Four-Door Car
+HJ79774,Female,College,276480.23,31591.0,72,4,240.241499,Corporate Auto,Four-Door Car
+KI18648,Female,Bachelor,808484.64,60662.0,68,0,326.4,Special Auto,Two-Door Car
+EL99335,Female,College,268517.77,20608.0,73,0,350.4,Personal Auto,Four-Door Car
+LE84979,Female,Master,1220812.0,21331.0,103,0,419.062661,Personal Auto,SUV
+CE12380,Female,College,2009043.87,0.0,66,0,252.149798,Corporate Auto,Four-Door Car
+BJ22117,Male,Master,513341.48,53390.0,6464,0,278.999409,Personal Auto,Four-Door Car
+JF83834,Male,Doctor,249131.7,36631.0,62,0,67.530904,Corporate Auto,Four-Door Car
+YN10988,Male,High School or Below,631459.68,0.0,87,0,417.6,Personal Auto,Four-Door Car
+YX15941,Male,College,1622964.89,26030.0,139,0,667.2,Corporate Auto,Luxury
+ZB50601,Male,College,516178.99,0.0,70,0,469.491537,Personal Auto,Four-Door Car
+HP50399,Male,Bachelor,398226.61,0.0,113,0,542.4,Personal Auto,SUV
+GC17585,Male,Bachelor,1347318.57,25302.0,70,0,336.0,Personal Auto,Four-Door Car
+QW17286,Female,Master,277832.39,66030.0,69,0,282.153792,Personal Auto,Four-Door Car
+DO41287,Male,High School or Below,827644.42,0.0,82,0,590.4,Personal Auto,Four-Door Car
+GT54462,Male,Bachelor,1434985.99,73222.0,180,0,821.51673,Personal Auto,SUV
+BT76268,Female,College,587819.93,22061.0,74,0,355.2,Personal Auto,Four-Door Car
+QM38267,Female,High School or Below,266605.45,86321.0,66,0,316.8,Personal Auto,Four-Door Car
+LP82042,Male,Bachelor,534568.1,54668.0,68,0,326.4,Personal Auto,Four-Door Car
+EF52978,Female,High School or Below,477712.16,0.0,62,0,297.6,Personal Auto,Four-Door Car
+GH54524,Male,High School or Below,1697374.02,69497.0,142,0,92.286763,Personal Auto,SUV
+DP26592,Male,High School or Below,251811.21,86617.0,63,0,188.325603,Personal Auto,Four-Door Car
+UP29839,Female,Master,1916098.99,22705.0,239,0,1294.700423,Personal Auto,Luxury
+IB80924,Female,High School or Below,3286440.46,90783.0,104,2,285.745227,Personal Auto,SUV
+OB55054,Male,Bachelor,396481.3,88410.0,99,0,475.2,Corporate Auto,Four-Door Car
+NP91656,Female,Bachelor,491177.31,0.0,69,0,496.8,Personal Auto,Four-Door Car
+SH74080,Female,College,780531.29,21073.0,106,0,508.8,Personal Auto,SUV
+KN25556,Female,College,720066.49,0.0,66,0,316.8,Personal Auto,Four-Door Car
+RB38792,Male,College,538949.95,66429.0,136,0,57.712985,Personal Auto,Luxury
+QR72180,Female,Doctor,324131.42,66889.0,80,0,294.319428,Personal Auto,Four-Door Car
+TW64385,Male,Bachelor,552821.28,36088.0,72,0,345.6,Corporate Auto,Four-Door Car
+TM13955,Male,Master,299302.46,0.0,80,0,286.115778,Corporate Auto,Four-Door Car
+GF94951,Male,Bachelor,707665.32,0.0,68,0,489.6,Corporate Auto,Two-Door Car
+NF53775,Female,College,370038.5,17557.0,96,0,666.724937,Personal Auto,Four-Door Car
+YB58778,Female,College,532883.59,81064.0,70,4,42.238585,Personal Auto,Two-Door Car
+PH77560,Female,High School or Below,483887.71,0.0,66,0,700.331425,Personal Auto,Four-Door Car
+ZO14864,Female,Master,341720.5,42526.0,86,0,287.5426,Personal Auto,Two-Door Car
+BI34376,Female,Doctor,787992.9,45703.0,98,0,470.4,Personal Auto,Two-Door Car
+UQ63396,Female,Bachelor,786943.24,40036.0,65,0,48.828732,Personal Auto,Four-Door Car
+BR23201,Male,Bachelor,258680.72,0.0,71,0,191.640085,Personal Auto,Four-Door Car
+VH45094,Male,High School or Below,728678.91,65870.0,61,0,202.847644,Personal Auto,Four-Door Car
+KD47243,Female,Bachelor,1179799.21,91469.0,100,2,418.864555,Personal Auto,SUV
+MY13737,Male,High School or Below,938675.3,42090.0,119,0,203.352239,Corporate Auto,SUV
+OR48881,Female,Doctor,630892.24,21368.0,79,0,4.61262,Corporate Auto,Four-Door Car
+BD77090,Female,Bachelor,860915.82,79090.0,107,0,289.040734,Personal Auto,SUV
+LW77178,Female,Bachelor,1542801.04,33879.0,98,0,470.4,Corporate Auto,Two-Door Car
+BQ12347,Male,High School or Below,563079.3,72874.0,70,0,336.0,Special Auto,Four-Door Car
+FF61670,Male,High School or Below,1813118.87,0.0,82,0,393.6,Personal Auto,Four-Door Car
+PM61374,Female,Bachelor,808721.95,0.0,110,0,550.825934,Personal Auto,Two-Door Car
+BW25236,Male,College,1845357.63,72215.0,66,0,247.911872,Personal Auto,Four-Door Car
+XO22038,Female,Bachelor,521751.33,39854.0,66,0,261.930545,Corporate Auto,Two-Door Car
+QG51953,Male,College,483578.32,36655.0,61,0,295.223164,Personal Auto,Four-Door Car
+SZ56338,Female,High School or Below,559712.5,37995.0,139,0,667.2,Personal Auto,SUV
+PX60116,Female,High School or Below,892046.4,40867.0,112,0,537.6,Corporate Auto,Two-Door Car
+BW46202,Female,Bachelor,599541.1,28804.0,78,0,76.025368,Personal Auto,Two-Door Car
+GW14109,Female,High School or Below,3849694.7,48409.0,124,0,345.211703,Special Auto,SUV
+GP42026,Male,High School or Below,838263.01,19683.0,117,0,561.6,Personal Auto,Luxury
+DH41343,Female,College,244366.52,92834.0,61,0,292.8,Special Auto,Four-Door Car
+PY42157,Female,High School or Below,247225.39,62006.0,61,0,292.8,Personal Auto,Four-Door Car
+OL36978,Female,High School or Below,540551.84,67241.0,68,0,5.674809,Personal Auto,Two-Door Car
+KT40899,Male,High School or Below,935247.9,75436.0,78,0,9.747443,Personal Auto,Four-Door Car
+WE60408,Female,College,433987.11,91761.0,109,2,779.052276,Personal Auto,SUV
+LG64797,Female,College,1772376.4,25771.0,222,0,1253.984948,Personal Auto,Luxury
+MD87746,Male,College,750745.54,60920.0,64,0,231.201886,Personal Auto,Two-Door Car
+QP80741,Female,College,604857.42,0.0,61,3,292.8,Corporate Auto,Four-Door Car
+WO59883,Female,High School or Below,1901447.63,29822.0,61,0,292.8,Personal Auto,Two-Door Car
+MU79385,Male,College,1008037.03,60944.0,130,2,623.505066,Personal Auto,SUV
+JH30384,Female,High School or Below,650339.7,22081.0,84,0,451.670309,Personal Auto,Two-Door Car
+LL45497,Female,College,248772.97,67282.0,62,0,297.6,Personal Auto,Two-Door Car
+SK95364,Female,College,462039.01,0.0,130,0,936.0,Personal Auto,SUV
+VG56765,Male,High School or Below,247152.84,95697.0,61,0,114.273025,Personal Auto,Two-Door Car
+NE24371,Female,College,649424.4,15300.0,85,0,408.0,Personal Auto,Four-Door Car
+KR48903,Male,High School or Below,250490.76,88264.0,62,0,297.6,Personal Auto,Two-Door Car
+ZF27999,Female,College,490489.47,12902.0,139,0,667.2,Personal Auto,Luxury
+MH40017,Male,High School or Below,480247.7,29809.0,61,0,365.312072,Personal Auto,Four-Door Car
+YJ99764,Male,High School or Below,795577.48,0.0,74,0,355.2,Personal Auto,Four-Door Car
+AG22225,Male,High School or Below,694190.08,0.0,96,0,460.8,Personal Auto,Four-Door Car
+ZJ26179,Male,Bachelor,838247.84,25998.0,71,0,791.878042,Personal Auto,Four-Door Car
+VO36036,Female,Doctor,353643.18,28248.0,90,0,634.385937,Personal Auto,Four-Door Car
+ZQ94281,Female,College,324481.66,68103.0,82,0,277.795988,Personal Auto,Two-Door Car
+CK40732,Female,High School or Below,761121.28,0.0,103,0,741.6,Special Auto,Four-Door Car
+UT73461,Female,Doctor,450539.83,81079.0,111,0,134.222332,Special Auto,SUV
+LT57320,Female,Master,244584.48,22732.0,62,0,15.616535,Personal Auto,Four-Door Car
+BZ44726,Female,High School or Below,1647776.84,49825.0,70,3,336.0,Corporate Auto,Two-Door Car
+VU32116,Female,College,354640.02,0.0,103,0,621.959357,Personal Auto,SUV
+EG94326,Male,High School or Below,427727.01,77265.0,107,0,513.6,Personal Auto,SUV
+EJ43595,Male,High School or Below,478477.35,0.0,72,0,779.629297,Corporate Auto,Four-Door Car
+QI37869,Male,College,757223.77,12876.0,107,2,425.964628,Corporate Auto,Four-Door Car
+SX65826,Male,Bachelor,1176087.64,36431.0,99,0,513.252488,Personal Auto,Two-Door Car
+XO42145,Male,High School or Below,393381.4,25927.0,103,0,674.973614,Personal Auto,SUV
+WJ74851,Female,Bachelor,570076.18,26811.0,72,0,465.763576,Personal Auto,Two-Door Car
+IG68709,Female,High School or Below,349863.48,41711.0,90,0,351.286604,Personal Auto,Four-Door Car
+AC75391,Female,College,576809.13,35091.0,74,0,418.927204,Corporate Auto,Two-Door Car
+WO94087,Female,Bachelor,636195.4,0.0,87,0,417.6,Corporate Auto,Four-Door Car
+YJ69332,Female,High School or Below,650339.7,22081.0,84,0,451.670309,Personal Auto,Two-Door Car
+WX87964,Male,High School or Below,493519.0,29560.0,62,0,297.6,Personal Auto,Four-Door Car
+PD32641,Male,College,578522.35,31320.0,72,0,293.86579,Personal Auto,Four-Door Car
+CK39096,Male,High School or Below,561968.91,0.0,153,0,1027.000029,Personal Auto,SUV
+QV19964,Male,Doctor,259928.96,33947.0,66,0,192.213037,Personal Auto,Four-Door Car
+BF72793,Female,High School or Below,673297.09,0.0,62,0,446.4,Personal Auto,Two-Door Car
+WB12017,Female,College,1832186.65,21189.0,66,0,316.8,Personal Auto,Two-Door Car
+JO17193,Male,Bachelor,230069.15,25905.0,63,0,302.4,Personal Auto,Four-Door Car
+AY84441,Male,High School or Below,400285.76,0.0,114,0,820.8,Personal Auto,SUV
+JQ65500,Female,Bachelor,862099.74,44988.0,108,0,518.4,Corporate Auto,Two-Door Car
+OI29521,Female,College,1038898.6,33432.0,90,0,161.423101,Corporate Auto,Two-Door Car
+MJ51323,Female,Bachelor,842717.25,46503.0,215,0,1032.0,Personal Auto,Luxury
+QI64880,Male,Bachelor,700727.42,0.0,101,0,973.787176,Corporate Auto,SUV
+HV93429,Female,Master,517657.91,23636.0,65,0,81.452537,Personal Auto,Four-Door Car
+TA89713,Male,College,538949.95,66429.0,136,0,57.712985,Personal Auto,Luxury
+OB98149,Female,College,470000.75,11417.0,63,0,302.4,Personal Auto,Two-Door Car
+LE65901,Female,Bachelor,443494.14,58082.0,112,0,103.022126,Personal Auto,SUV
+FF68864,Female,Bachelor,1401052.74,36523.0,71,0,101.353875,Personal Auto,Four-Door Car
+YX99200,Male,Bachelor,1235005.82,54710.0,103,0,294.058449,Personal Auto,Two-Door Car
+LZ26801,Female,High School or Below,816157.69,73466.0,102,0,204.74051,Personal Auto,SUV
+TA66375,Female,Bachelor,1100913.05,51643.0,283,0,1358.4,Corporate Auto,Luxury
+SC92090,Male,College,871704.98,83846.0,74,3,355.2,Personal Auto,Four-Door Car
+TK40018,Male,High School or Below,591746.66,0.0,169,0,1207.084251,Personal Auto,SUV
+ZD63451,Male,Bachelor,250366.04,53338.0,63,0,35.45384,Personal Auto,Four-Door Car
+AO98601,Female,Bachelor,501888.52,54500.0,63,0,302.4,Corporate Auto,Two-Door Car
+DT35588,Male,College,433038.6,60475.0,107,0,513.6,Personal Auto,Four-Door Car
+VF87723,Male,College,1048774.33,30658.0,89,0,441.757585,Personal Auto,Four-Door Car
+QP69826,Male,Bachelor,356750.38,0.0,102,0,660.430456,Corporate Auto,SUV
+UW37050,Female,Bachelor,1989642.23,60420.0,248,0,632.944366,Personal Auto,Luxury
+UH62254,Male,Bachelor,2142363.72,0.0,65,0,312.0,Personal Auto,Two-Door Car
+IA15979,Male,College,694832.59,40598.0,91,0,302.791402,Personal Auto,Four-Door Car
+DB71122,Female,Doctor,351583.19,15144.0,90,0,372.652536,Personal Auto,Four-Door Car
+TM14491,Male,Bachelor,1203662.05,44428.0,104,0,499.2,Personal Auto,SUV
+OY94707,Male,College,360979.83,58297.0,97,5,647.039443,Special Auto,Four-Door Car
+LN55080,Female,Bachelor,1773246.49,42191.0,74,0,68.647736,Special Auto,Two-Door Car
+TZ47750,Male,Master,850985.09,26057.0,74,0,523.888845,Personal Auto,Four-Door Car
+SJ74501,Female,Bachelor,586642.43,26608.0,73,0,234.234301,Personal Auto,Two-Door Car
+LE26899,Male,Doctor,482550.09,0.0,63,0,272.843439,Personal Auto,Four-Door Car
+ML34366,Male,College,538949.95,66429.0,136,0,57.712985,Personal Auto,Luxury
+EI45850,Female,Bachelor,777800.56,25970.0,72,3,430.818992,Personal Auto,Four-Door Car
+LD75023,Male,High School or Below,2634608.58,48268.0,223,0,1605.6,Personal Auto,Luxury
+JW12998,Female,High School or Below,1486645.12,24279.0,126,0,604.8,Personal Auto,Luxury
+LP47259,Male,High School or Below,832423.27,0.0,121,0,871.2,Corporate Auto,Luxury
+XD21246,Female,High School or Below,923830.6,0.0,128,0,921.6,Personal Auto,SUV
+DW59142,Female,High School or Below,2269329.08,71879.0,64,0,9.163065,Corporate Auto,Two-Door Car
+KX54900,Male,Doctor,623601.86,57760.0,78,0,223.950089,Special Auto,Four-Door Car
+XV83643,Male,College,501218.48,20976.0,129,0,735.683769,Personal Auto,Luxury
+XY33610,Male,College,1569553.94,97750.0,65,0,303.002922,Personal Auto,Four-Door Car
+GK48045,Female,College,821460.24,73245.0,68,0,305.121363,Personal Auto,Four-Door Car
+ET79528,Male,College,311898.11,23008.0,79,0,80.663097,Personal Auto,Four-Door Car
+RA66180,Female,High School or Below,276403.21,33837.0,72,4,305.575785,Corporate Auto,Two-Door Car
+BC66536,Female,High School or Below,688368.66,84869.0,85,0,408.0,Corporate Auto,Four-Door Car
+PN22481,Male,College,221591.29,0.0,66,0,316.8,Corporate Auto,Two-Door Car
+XR95069,Female,Bachelor,485474.57,29834.0,6464,0,307.2,Personal Auto,Four-Door Car
+IF38438,Female,High School or Below,2152294.75,44695.0,79,2,81.166323,Personal Auto,Two-Door Car
+ZC62609,Female,High School or Below,276169.17,0.0,77,0,554.4,Personal Auto,Four-Door Car
+FD64348,Male,High School or Below,2256361.84,23046.0,65,3,1.687291,Personal Auto,Two-Door Car
+TA58285,Male,High School or Below,528591.83,0.0,73,0,392.951076,Personal Auto,Two-Door Car
+WV66165,Female,High School or Below,3506264.8,84811.0,111,0,278.284943,Personal Auto,SUV
+YE27183,Male,Bachelor,591319.9,0.0,91,0,436.8,Corporate Auto,Four-Door Car
+TI47802,Female,Master,259339.87,0.0,69,0,331.2,Personal Auto,Two-Door Car
+ZZ44902,Male,High School or Below,1269267.09,40117.0,108,0,750.082794,Personal Auto,Two-Door Car
+JD73594,Male,Bachelor,330911.97,72140.0,87,2,417.6,Personal Auto,Four-Door Car
+VW82067,Female,Master,518162.09,97131.0,6464,0,307.2,Personal Auto,Four-Door Car
+JS55721,Male,College,241393.06,12495.0,65,0,312.0,Personal Auto,Four-Door Car
+ZB62469,Male,High School or Below,216168.55,0.0,67,2,482.4,Corporate Auto,Two-Door Car
+HZ74609,Female,Bachelor,552798.89,0.0,72,0,345.6,Personal Auto,Four-Door Car
+TJ76363,Female,Doctor,1062921.79,36495.0,133,0,229.930796,Corporate Auto,SUV
+QZ58370,Female,Bachelor,1182010.98,86801.0,98,0,371.108203,Personal Auto,Four-Door Car
+RF44930,Male,College,496463.15,52679.0,62,0,117.998498,Personal Auto,Four-Door Car
+VJ44100,Male,Master,912292.56,90804.0,113,0,434.09776,Personal Auto,Luxury
+KN13494,Female,Master,518162.09,97131.0,6464,0,307.2,Personal Auto,Four-Door Car
+NL80137,Female,College,346066.5,14262.0,90,0,290.432527,Personal Auto,Four-Door Car
+NZ57065,Male,Bachelor,287298.08,36844.0,73,0,283.966321,Personal Auto,Four-Door Car
+NM42917,Female,College,992787.77,58703.0,127,2,227.916076,Personal Auto,SUV
+RR68322,Male,High School or Below,348268.7,65162.0,86,0,134.430084,Personal Auto,Four-Door Car
+OF78862,Female,College,399172.72,54964.0,99,0,525.515271,Personal Auto,Four-Door Car
+SC93784,Male,Bachelor,551010.74,61401.0,69,0,144.439335,Personal Auto,Four-Door Car
+CM59084,Female,High School or Below,360093.43,25147.0,101,0,694.598288,Corporate Auto,SUV
+QA41558,Female,Master,541945.81,73536.0,67,0,172.518524,Personal Auto,Two-Door Car
+SD62061,Female,High School or Below,581063.05,24860.0,73,0,350.4,Personal Auto,Four-Door Car
+VP13613,Male,Bachelor,394272.58,65404.0,99,0,300.703109,Personal Auto,Four-Door Car
+HF96939,Male,High School or Below,312627.19,34510.0,81,0,388.8,Personal Auto,Four-Door Car
+DU18362,Male,Bachelor,353000.77,0.0,108,0,777.6,Corporate Auto,Two-Door Car
+UG34438,Female,College,1099059.48,44552.0,137,0,311.103582,Personal Auto,SUV
+XQ19793,Male,High School or Below,477294.38,20993.0,133,0,638.4,Personal Auto,SUV
+OB77084,Female,Bachelor,220233.52,0.0,61,0,292.8,Personal Auto,Two-Door Car
+LK74984,Male,High School or Below,245917.17,21190.0,65,2,312.0,Personal Auto,Four-Door Car
+JE13986,Female,College,1037388.88,62587.0,86,0,412.8,Personal Auto,Four-Door Car
+QR15221,Female,High School or Below,258420.39,22562.0,65,0,312.0,Personal Auto,Two-Door Car
+LD49835,Male,High School or Below,430742.28,73345.0,107,0,513.6,Personal Auto,SUV
+EK19337,Female,High School or Below,304025.38,0.0,83,0,989.105367,Personal Auto,Four-Door Car
+GD55093,Female,Master,1916098.99,22705.0,239,0,1294.700423,Personal Auto,Luxury
+RX19151,Male,Bachelor,817657.68,67137.0,111,5,314.880326,Personal Auto,SUV
+TJ30354,Female,Bachelor,528530.76,22627.0,67,0,321.6,Personal Auto,Four-Door Car
+TA75663,Female,Master,802499.3,38702.0,101,3,253.364333,Personal Auto,SUV
+WG15841,Male,Bachelor,281046.44,26790.0,71,0,340.8,Personal Auto,Two-Door Car
+LO68739,Female,Bachelor,773955.04,64859.0,96,0,266.949266,Personal Auto,Four-Door Car
+BE61743,Male,Bachelor,410979.36,86657.0,103,0,316.227946,Personal Auto,Luxury
+EG56026,Female,High School or Below,327516.2,69263.0,81,2,494.847804,Personal Auto,Two-Door Car
+VF21395,Male,Bachelor,265269.53,82655.0,66,0,316.8,Personal Auto,Two-Door Car
+SI11249,Female,High School or Below,504822.62,29401.0,65,0,312.0,Personal Auto,Four-Door Car
+PU95227,Male,Bachelor,336241.44,22853.0,87,0,316.35678,Personal Auto,Four-Door Car
+VO87785,Female,College,485842.94,26480.0,63,0,378.695238,Personal Auto,Two-Door Car
+FS29897,Female,High School or Below,214492.15,0.0,61,0,292.8,Personal Auto,Four-Door Car
+JG36165,Male,Bachelor,604261.85,0.0,83,0,904.385726,Personal Auto,Two-Door Car
+SJ42058,Female,High School or Below,338720.33,73268.0,84,0,93.623377,Personal Auto,Four-Door Car
+CU13711,Female,Doctor,1086427.49,95579.0,67,0,308.631159,Personal Auto,Four-Door Car
+GT65065,Female,Master,884265.0,42142.0,112,0,396.17554,Personal Auto,Luxury
+LO77543,Male,College,261661.39,72302.0,66,0,316.8,Special Auto,Two-Door Car
+UQ85283,Male,Bachelor,3076325.64,41279.0,115,0,251.429988,Personal Auto,Luxury
+QA49556,Male,Master,520022.78,23401.0,66,0,316.8,Personal Auto,Four-Door Car
+GE29173,Male,Bachelor,859130.54,0.0,128,0,1448.994134,Corporate Auto,SUV
+DF21541,Female,College,264657.38,23170.0,71,0,340.8,Personal Auto,Four-Door Car
+JL59571,Female,Bachelor,460724.43,17343.0,63,0,208.659743,Corporate Auto,Two-Door Car
+DF94525,Male,College,486062.0,25854.0,68,0,396.284835,Personal Auto,Four-Door Car
+YO58424,Male,College,258084.99,46900.0,66,0,316.8,Corporate Auto,Four-Door Car
+UF32671,Female,College,529139.53,57338.0,66,0,316.8,Personal Auto,Four-Door Car
+HO92982,Male,High School or Below,840575.3,85355.0,71,2,458.568921,Personal Auto,Two-Door Car
+MZ24175,Female,College,309651.12,21604.0,79,0,379.2,Personal Auto,Four-Door Car
+YD48962,Male,High School or Below,2941228.93,0.0,107,0,513.6,Personal Auto,SUV
+RI52095,Male,High School or Below,765149.3931451613,51878.0,66,0,316.8,Personal Auto,Four-Door Car
+MF18493,Male,College,1749752.2,0.0,73,0,350.4,Personal Auto,Two-Door Car
+EP61084,Female,High School or Below,321860.86,68776.0,80,0,87.861666,Personal Auto,Four-Door Car
+EN38348,Female,High School or Below,2320726.97,45039.0,96,0,192.144838,Personal Auto,Four-Door Car
+FG46258,Female,College,692197.4,16483.0,90,0,320.519977,Corporate Auto,Two-Door Car
+LS98306,Male,High School or Below,1391853.48,64113.0,117,0,561.6,Special Auto,Four-Door Car
+PZ47477,Male,High School or Below,896630.98,41829.0,76,0,416.365369,Personal Auto,Two-Door Car
+LT32391,Female,Master,1198198.48,21514.0,62,0,257.248789,Personal Auto,Two-Door Car
+KK30016,Male,Master,553262.98,27722.0,69,0,331.2,Personal Auto,Four-Door Car
+OA89218,Female,College,1166057.3,21506.0,151,0,826.658992,Personal Auto,Luxury
+CY47265,Female,High School or Below,288645.16,10312.0,78,0,486.278557,Personal Auto,Four-Door Car
+ZI47663,Female,Bachelor,1274184.75,73054.0,106,0,419.365958,Personal Auto,SUV
+GO14008,Female,Bachelor,539809.81,73775.0,67,0,321.6,Personal Auto,Four-Door Car
+BC43958,Male,High School or Below,728503.1,44788.0,61,0,386.031248,Corporate Auto,Four-Door Car
+AI61368,Female,High School or Below,1765196.34,22510.0,95,0,456.0,Personal Auto,Four-Door Car
+UF37831,Male,Master,1702989.34,54613.0,213,0,731.559007,Personal Auto,Luxury
+PO90615,Female,High School or Below,249125.76,25965.0,65,0,329.206567,Personal Auto,Four-Door Car
+GY74661,Female,College,403931.5,34911.0,105,0,126.779673,Personal Auto,SUV
+MX50302,Male,Bachelor,261933.74,78618.0,66,0,225.578841,Special Auto,Two-Door Car
+TC84427,Female,High School or Below,504968.96,61080.0,66,2,294.284951,Personal Auto,Four-Door Car
+IQ82914,Female,Master,498345.71,60415.0,62,0,72.665253,Personal Auto,Two-Door Car
+TY74870,Female,Master,253063.94,25143.0,66,0,8.737111,Corporate Auto,Four-Door Car
+II83628,Male,College,739671.97,41045.0,64,0,394.582401,Personal Auto,Four-Door Car
+ZR77995,Male,College,383289.85,97729.0,95,0,97.176153,Personal Auto,Four-Door Car
+QT89604,Female,High School or Below,496140.59,55702.0,61,0,151.13336,Personal Auto,Four-Door Car
+AB21519,Female,College,386148.63,93272.0,95,0,281.110788,Personal Auto,Four-Door Car
+MP47256,Male,Bachelor,2265853.65,23665.0,67,0,404.817249,Personal Auto,Four-Door Car
+MA47641,Male,High School or Below,1040896.87,20228.0,101,0,523.815839,Personal Auto,SUV
+GQ20713,Female,College,483471.05,38713.0,66,4,316.8,Personal Auto,Four-Door Car
+WW87934,Female,Bachelor,825766.65,23815.0,73,0,424.330166,Personal Auto,Four-Door Car
+HF75276,Female,High School or Below,305262.95,0.0,93,3,446.4,Personal Auto,Four-Door Car
+ET64028,Female,High School or Below,401231.93,47221.0,99,0,475.2,Personal Auto,Two-Door Car
+QA41472,Male,Bachelor,1335548.64,34495.0,113,0,389.673944,Personal Auto,SUV
+OZ92426,Male,College,236443.16,46264.0,62,0,199.37361,Corporate Auto,Four-Door Car
+UM69933,Male,College,248933.79,46051.0,63,0,302.4,Personal Auto,Two-Door Car
+RQ11502,Female,Bachelor,475572.0,23975.0,128,0,614.4,Corporate Auto,SUV
+TX98128,Female,College,1386438.5,0.0,74,4,580.886785,Personal Auto,Four-Door Car
+XY52165,Female,College,302042.48,78561.0,74,0,355.2,Personal Auto,Two-Door Car
+GB39003,Male,High School or Below,628530.52,0.0,90,0,432.0,Personal Auto,Two-Door Car
+VH43367,Female,High School or Below,250602.2,61402.0,63,2,302.4,Special Auto,Four-Door Car
+KG81168,Male,Bachelor,282630.76,65090.0,71,0,73.995096,Personal Auto,Four-Door Car
+WU14549,Male,Master,436971.79,88495.0,108,0,535.926948,Personal Auto,Two-Door Car
+XB17553,Male,Bachelor,1217458.8,52797.0,104,0,88.173438,Personal Auto,Luxury
+MY88518,Male,Doctor,352804.43,31278.0,92,4,441.6,Personal Auto,Two-Door Car
+XE18554,Female,Bachelor,1043657.47,24177.0,92,0,441.6,Personal Auto,Four-Door Car
+NY97446,Female,High School or Below,274612.14,96339.0,68,0,293.205349,Corporate Auto,Four-Door Car
+VT96364,Male,Bachelor,917517.19,68164.0,119,2,222.582872,Personal Auto,Four-Door Car
+HF88410,Female,High School or Below,765149.3931451613,36765.0,66,0,320.849072,Personal Auto,Four-Door Car
+DP92488,Female,Doctor,272752.08,74592.0,67,0,321.6,Personal Auto,Two-Door Car
+VC54081,Female,College,944974.59,0.0,63,0,117.744416,Special Auto,Four-Door Car
+CE94751,Male,College,456881.94,0.0,70,0,524.836298,Personal Auto,Two-Door Car
+VM85856,Female,Master,257402.04,34990.0,65,0,42.689135,Personal Auto,Four-Door Car
+EH37385,Female,Master,878988.41,22849.0,109,0,523.2,Personal Auto,Luxury
+FI45719,Male,Doctor,250740.78,32893.0,63,0,174.086385,Personal Auto,Four-Door Car
+SB79528,Male,College,252241.46,0.0,73,0,350.4,Corporate Auto,Two-Door Car
+WH81461,Male,College,754271.4,0.0,111,0,1186.972445,Personal Auto,SUV
+UD47050,Male,High School or Below,600521.48,26876.0,76,0,364.8,Corporate Auto,Four-Door Car
+XZ17273,Male,Bachelor,2099825.95,71663.0,74,0,84.494022,Corporate Auto,Four-Door Car
+XR97812,Male,College,234508.45,0.0,69,0,331.2,Personal Auto,Four-Door Car
+BW88060,Female,High School or Below,878316.54,16994.0,112,0,806.4,Personal Auto,SUV
+CP32818,Male,Bachelor,452996.54,64270.0,117,0,46.104534,Personal Auto,Luxury
+CM52565,Female,High School or Below,603322.24,0.0,83,0,597.6,Corporate Auto,Four-Door Car
+YP40334,Female,Doctor,530824.7,0.0,145,0,358.765757,Personal Auto,SUV
+KD63998,Male,College,267473.07,56342.0,69,0,331.2,Personal Auto,Four-Door Car
+VC77127,Female,High School or Below,492980.75,0.0,70,0,837.438442,Personal Auto,Four-Door Car
+AM30008,Male,High School or Below,1413112.13,28327.0,185,0,888.0,Personal Auto,Luxury
+PC83755,Male,High School or Below,247152.84,95697.0,61,0,114.273025,Personal Auto,Two-Door Car
+XS22323,Male,High School or Below,600521.48,26876.0,76,0,364.8,Personal Auto,Four-Door Car
+ST27958,Male,College,438627.76,10621.0,67,0,321.6,Personal Auto,Four-Door Car
+BH23017,Female,Bachelor,1911656.81,0.0,61,0,657.808231,Personal Auto,Two-Door Car
+OD18225,Male,College,663166.55,32918.0,84,0,403.2,Personal Auto,Four-Door Car
+VE31507,Female,High School or Below,743229.99,0.0,71,0,447.333545,Personal Auto,Four-Door Car
+NR18672,Male,High School or Below,292811.51,63127.0,74,0,174.292234,Personal Auto,Two-Door Car
+DM76654,Male,College,4661187.38,22022.0,136,0,979.2,Personal Auto,SUV
+YY11432,Female,High School or Below,1651500.93,51725.0,138,0,159.004261,Personal Auto,SUV
+GK67747,Male,College,438627.76,10621.0,67,0,321.6,Special Auto,Four-Door Car
+XA75063,Female,College,1021356.34,39719.0,131,0,628.8,Personal Auto,Luxury
+PQ13422,Male,College,1004928.59,58194.0,84,0,450.996589,Personal Auto,Four-Door Car
+NA89685,Male,College,574614.83,61990.0,72,0,48.884434,Personal Auto,Four-Door Car
+AL35726,Female,College,374675.16,41479.0,94,0,19.575683,Personal Auto,Two-Door Car
+WO70078,Female,Bachelor,748606.84,97899.0,95,3,3.772105,Personal Auto,Four-Door Car
+CA56041,Female,College,912006.52,63878.0,113,0,370.285349,Personal Auto,SUV
+HI41970,Female,High School or Below,567804.67,68671.0,70,0,8.076879,Special Auto,Two-Door Car
+AU46443,Female,Bachelor,751708.38,0.0,102,0,1178.995926,Personal Auto,SUV
+WC35554,Male,College,453053.07,34640.0,117,2,466.318191,Personal Auto,Luxury
+JR10216,Female,Bachelor,269138.06,21959.0,71,0,340.8,Corporate Auto,Four-Door Car
+OH11674,Female,Bachelor,806862.39,51584.0,69,2,368.919773,Corporate Auto,Two-Door Car
+US85318,Female,Bachelor,247857.67,65744.0,62,0,166.507217,Corporate Auto,Four-Door Car
+FS19862,Female,Bachelor,911204.15,25198.0,118,0,566.4,Personal Auto,SUV
+ZP80713,Female,Master,277244.13,79663.0,69,0,263.957201,Personal Auto,Two-Door Car
+OK50159,Female,Bachelor,430579.32,31071.0,111,2,215.23091,Personal Auto,Luxury
+TP54769,Female,Bachelor,510335.76,39452.0,131,0,398.190882,Corporate Auto,SUV
+FS49381,Female,Bachelor,478496.05,25813.0,61,0,205.332749,Personal Auto,Four-Door Car
+DQ79499,Female,Doctor,1054110.98,59965.0,131,0,905.030448,Personal Auto,SUV
+VH31965,Female,Bachelor,528511.87,40783.0,67,0,321.6,Personal Auto,Four-Door Car
+VO25602,Female,College,761084.05,98701.0,94,0,79.615631,Personal Auto,Four-Door Car
+EP93369,Female,College,851052.59,0.0,121,0,871.2,Personal Auto,Luxury
+DQ45854,Female,College,1617294.05,64388.0,68,0,12.394834,Personal Auto,Four-Door Car
+QG15661,Male,College,242549.48,66841.0,62,0,123.436634,Personal Auto,Four-Door Car
+YA80645,Female,High School or Below,289931.72,33738.0,74,0,304.390472,Corporate Auto,Four-Door Car
+TW16499,Male,Bachelor,363305.4,43334.0,95,2,614.367195,Corporate Auto,Two-Door Car
+UP97629,Female,College,345715.42,0.0,91,0,245.673365,Personal Auto,Four-Door Car
+NU42684,Female,College,339472.03,83431.0,84,0,403.2,Personal Auto,Four-Door Car
+EM85557,Female,College,802106.71,54292.0,67,0,321.6,Personal Auto,Four-Door Car
+BM69818,Male,Bachelor,584152.81,0.0,79,0,379.2,Personal Auto,Four-Door Car
+HK15299,Male,High School or Below,547985.42,38210.0,69,0,383.043363,Personal Auto,Four-Door Car
+NP88496,Female,High School or Below,2045524.95,0.0,67,0,482.4,Personal Auto,Four-Door Car
+SB99002,Female,Bachelor,831912.3,49734.0,69,0,154.748539,Corporate Auto,Four-Door Car
+ZH42145,Female,High School or Below,258286.23,50148.0,65,0,323.485239,Corporate Auto,Four-Door Car
+JG30837,Male,College,416379.34,11689.0,117,0,561.6,Corporate Auto,SUV
+AC22873,Female,High School or Below,485310.03,17120.0,125,0,717.285949,Special Auto,SUV
+RO85831,Male,High School or Below,753169.73,82157.0,188,0,1353.6,Corporate Auto,Luxury
+NN65845,Female,Bachelor,258593.7,21603.0,68,2,326.4,Personal Auto,Four-Door Car
+RZ27571,Female,Bachelor,269596.39,25544.0,68,0,326.4,Personal Auto,Four-Door Car
+GH31557,Male,High School or Below,268458.16,98121.0,67,0,383.655742,Personal Auto,Two-Door Car
+MK73855,Female,High School or Below,810936.46,32314.0,68,0,326.4,Personal Auto,Four-Door Car
+IO27771,Female,College,903665.76,89382.0,112,0,573.990258,Corporate Auto,Four-Door Car
+HB99061,Female,High School or Below,535218.7,97742.0,132,0,199.590599,Corporate Auto,SUV
+HQ82089,Female,High School or Below,1188096.62,0.0,114,0,820.8,Personal Auto,Four-Door Car
+JN72184,Male,College,255709.43,0.0,73,0,525.6,Corporate Auto,Four-Door Car
+WQ46946,Female,College,791482.31,77153.0,99,0,355.641958,Personal Auto,Four-Door Car
+WJ44028,Male,Master,984008.26,94590.0,81,0,388.8,Personal Auto,Two-Door Car
+WH77063,Female,High School or Below,435155.05,74163.0,108,0,518.4,Personal Auto,Four-Door Car
+FI13966,Female,High School or Below,2220782.62,40450.0,287,3,1377.6,Personal Auto,Luxury
+AQ46199,Male,High School or Below,482525.86,0.0,71,0,511.2,Personal Auto,Two-Door Car
+WV69362,Female,High School or Below,694783.88,0.0,99,0,475.2,Corporate Auto,Two-Door Car
+RJ90816,Female,College,334480.95,33243.0,85,0,24.555177,Personal Auto,Four-Door Car
+NH19236,Male,Master,235750.31,0.0,64,0,199.791024,Personal Auto,Four-Door Car
+VW88911,Male,High School or Below,3594471.05,0.0,114,0,820.8,Corporate Auto,Four-Door Car
+NV14535,Male,High School or Below,1040896.87,20228.0,101,0,523.815839,Personal Auto,SUV
+BM66931,Female,High School or Below,404816.13,92801.0,100,0,407.045238,Personal Auto,SUV
+JW24035,Male,College,685200.19,0.0,69,0,406.999443,Personal Auto,Four-Door Car
+PG82270,Male,College,290302.42,36845.0,74,0,355.2,Personal Auto,Four-Door Car
+RW65101,Female,College,1803911.42,0.0,63,0,503.204804,Personal Auto,Four-Door Car
+QO79771,Female,Master,324204.39,72330.0,81,2,126.509441,Personal Auto,Four-Door Car
+EC44438,Female,Bachelor,246762.08,19352.0,65,0,724.463534,Personal Auto,Four-Door Car
+MW54213,Male,College,567438.34,0.0,62,5,297.6,Personal Auto,Four-Door Car
+ZN33412,Female,College,863435.6,25073.0,79,0,379.2,Personal Auto,Four-Door Car
+HZ56678,Female,High School or Below,278019.69,20261.0,72,0,345.6,Personal Auto,Four-Door Car
+AN36757,Male,Master,2205600.5,66851.0,92,2,408.550442,Personal Auto,Four-Door Car
+NB54665,Female,High School or Below,251459.2,43860.0,65,0,156.124914,Corporate Auto,Four-Door Car
+MG99229,Male,College,588622.11,0.0,180,0,1777.471271,Corporate Auto,Luxury
+MX76292,Female,Doctor,770603.63,48019.0,64,0,137.665031,Corporate Auto,Four-Door Car
+EJ90880,Male,College,279045.82,28786.0,71,0,345.619809,Personal Auto,Four-Door Car
+WO95180,Female,High School or Below,239703.61,22283.0,65,0,572.072106,Corporate Auto,Four-Door Car
+BU53191,Female,Bachelor,883432.28,34133.0,111,0,226.9684,Personal Auto,SUV
+ZK54897,Male,Master,1443567.37,60880.0,119,0,109.906628,Personal Auto,Two-Door Car
+PP48389,Female,Bachelor,687196.66,0.0,196,2,940.8,Personal Auto,Luxury
+XD29421,Male,High School or Below,1536235.44,48115.0,192,0,1382.4,Personal Auto,Luxury
+OP26403,Female,College,483479.75,32017.0,62,2,297.6,Personal Auto,Four-Door Car
+XK15687,Female,High School or Below,1089930.18,58518.0,136,0,323.637414,Personal Auto,SUV
+ED29955,Male,Bachelor,528404.1,61542.0,67,0,321.6,Personal Auto,Four-Door Car
+QT84720,Female,Bachelor,289172.68,56761.0,73,0,85.146928,Corporate Auto,Two-Door Car
+ZH35315,Male,College,490054.51,22976.0,66,0,345.951322,Personal Auto,Four-Door Car
+EE76374,Female,High School or Below,2084259.63,0.0,72,0,709.082334,Personal Auto,Four-Door Car
+SH51981,Male,College,524605.72,70301.0,67,0,328.942798,Personal Auto,Four-Door Car
+BS13111,Male,Bachelor,663083.61,0.0,66,0,315.950185,Personal Auto,Four-Door Car
+JP12645,Male,Bachelor,1203662.05,44428.0,104,0,499.2,Personal Auto,SUV
+ZF28570,Male,Bachelor,389503.48,52361.0,102,0,645.952371,Personal Auto,Four-Door Car
+UU93074,Male,College,1170106.99,32435.0,297,0,1767.348807,Personal Auto,Luxury
+SZ60450,Male,High School or Below,341910.87,40272.0,86,0,23.387192,Personal Auto,Two-Door Car
+HL63895,Male,Master,730277.51,30492.0,61,0,171.38289,Personal Auto,Four-Door Car
+UD27196,Male,High School or Below,1968540.91,51524.0,244,0,1171.2,Personal Auto,Luxury
+OU53351,Male,College,248606.49,36635.0,63,0,302.4,Corporate Auto,Four-Door Car
+SX50964,Female,Bachelor,522432.88,83389.0,65,0,209.25613,Corporate Auto,Two-Door Car
+RP30093,Female,Bachelor,4922143.07,63035.0,153,0,734.4,Personal Auto,SUV
+BK73302,Male,Bachelor,316788.87,61638.0,82,2,544.340079,Corporate Auto,Four-Door Car
+CS93971,Female,College,780531.29,21073.0,106,0,508.8,Personal Auto,SUV
+RG13940,Female,College,1319792.89,0.0,68,3,326.4,Personal Auto,Four-Door Car
+ZG94155,Male,Bachelor,623430.59,0.0,82,0,192.7604,Personal Auto,Two-Door Car
+QN15356,Male,College,753960.06,0.0,74,0,532.8,Personal Auto,Four-Door Car
+MZ16820,Male,High School or Below,815793.36,86811.0,102,0,489.6,Corporate Auto,Four-Door Car
+DO98345,Male,High School or Below,1315674.9,72517.0,82,0,371.458196,Personal Auto,Two-Door Car
+PA48777,Female,High School or Below,249125.76,25965.0,5353,0,329.206567,Personal Auto,Four-Door Car
+UK76814,Female,Doctor,533938.84,84424.0,66,0,231.537001,Personal Auto,Four-Door Car
+SR30440,Female,College,864917.5,43383.0,109,0,757.593913,Personal Auto,SUV
+XE66367,Male,High School or Below,751913.36,96306.0,95,0,185.355353,Special Auto,Four-Door Car
+SZ70655,Female,College,429300.96,0.0,61,0,292.8,Corporate Auto,Two-Door Car
+UV54502,Female,High School or Below,253774.45,0.0,69,0,331.2,Personal Auto,Four-Door Car
+DK98861,Female,College,1316033.89,94125.0,109,0,341.680131,Personal Auto,SUV
+JX14364,Male,College,1323554.44,39778.0,112,0,806.4,Personal Auto,SUV
+LI85491,Female,High School or Below,374457.77,0.0,101,0,727.2,Personal Auto,SUV
+JY87538,Female,College,2848607.28,91871.0,102,0,346.845129,Personal Auto,SUV
+VE55982,Male,Bachelor,264468.46,54000.0,66,0,373.881547,Corporate Auto,Two-Door Car
+WK99918,Male,Doctor,507328.21,57709.0,125,0,600.0,Personal Auto,SUV
+XP16538,Female,High School or Below,427258.51,81132.0,107,0,419.105559,Corporate Auto,SUV
+HW42900,Male,College,1100301.65,22926.0,93,0,479.934846,Corporate Auto,Four-Door Car
+JG84729,Female,College,1418164.28,0.0,72,2,345.6,Personal Auto,Four-Door Car
+XH85336,Male,Bachelor,554803.19,67798.0,69,0,331.2,Personal Auto,Four-Door Car
+ND29059,Male,Bachelor,1107768.59,78011.0,138,0,619.698644,Personal Auto,SUV
+HC76653,Male,College,243568.9,32931.0,62,0,297.6,Personal Auto,Four-Door Car
+SG73822,Female,Bachelor,874385.22,99517.0,109,0,239.905208,Personal Auto,Four-Door Car
+CB44654,Male,Bachelor,240976.09,59665.0,62,0,167.138119,Personal Auto,Two-Door Car
+MP53505,Female,High School or Below,550001.25,86073.0,136,0,333.5671,Corporate Auto,Luxury
+YJ43481,Female,High School or Below,852828.87,91099.0,107,0,406.430632,Corporate Auto,SUV
+TP15362,Male,College,359199.61,28013.0,91,0,655.2,Personal Auto,Four-Door Car
+YX90754,Female,High School or Below,853982.69,55478.0,71,0,339.399593,Personal Auto,Two-Door Car
+TQ32702,Female,College,699091.78,22568.0,88,0,422.4,Corporate Auto,Four-Door Car
+TS50305,Female,High School or Below,397938.82,0.0,112,0,806.4,Personal Auto,SUV
+BY22068,Male,High School or Below,2395037.44,39335.0,201,0,964.8,Corporate Auto,Luxury
+TJ48439,Female,College,232105.25,0.0,66,0,508.703134,Personal Auto,Two-Door Car
+TE61015,Male,College,508702.05,0.0,72,0,345.6,Personal Auto,Four-Door Car
+RD89159,Male,College,436293.12,58842.0,110,0,528.0,Personal Auto,Four-Door Car
+VW86720,Female,Bachelor,745746.81,0.0,69,0,678.209827,Personal Auto,Four-Door Car
+UM76485,Male,College,702775.96,0.0,102,0,489.6,Personal Auto,SUV
+LS62045,Female,Bachelor,283168.37,70037.0,70,0,409.985435,Personal Auto,Four-Door Car
+ZG84862,Male,High School or Below,421785.79,0.0,62,0,446.4,Personal Auto,Two-Door Car
+CD76093,Male,College,759629.15,59847.0,192,0,921.6,Corporate Auto,Luxury
+FO99259,Male,Bachelor,836567.76,26630.0,118,0,581.077056,Personal Auto,Four-Door Car
+KN87338,Female,High School or Below,272639.3,48039.0,68,0,11.451889,Personal Auto,Four-Door Car
+LT89398,Male,High School or Below,342045.22,0.0,92,0,441.6,Personal Auto,Four-Door Car
+NZ19529,Male,High School or Below,483910.72,0.0,137,0,1227.458548,Personal Auto,SUV
+PR41853,Female,Bachelor,435855.35,0.0,118,0,101.826804,Corporate Auto,Luxury
+ZF40671,Female,Master,1242739.37,15818.0,107,0,333.886816,Personal Auto,Two-Door Car
+XR84971,Female,Doctor,2351585.33,36537.0,85,0,165.309001,Personal Auto,Four-Door Car
+BP83941,Female,Master,839632.76,0.0,115,0,552.0,Personal Auto,SUV
+PY80449,Male,High School or Below,517097.64,53603.0,132,0,697.272246,Personal Auto,Luxury
+ET22260,Male,Doctor,558530.81,0.0,80,0,6.281344,Corporate Auto,Four-Door Car
+OF47250,Female,Doctor,863949.5,92374.0,107,0,220.018279,Personal Auto,SUV
+WB58031,Male,High School or Below,528183.35,39658.0,66,0,316.8,Corporate Auto,Four-Door Car
+UV80201,Female,Bachelor,838525.23,0.0,116,0,556.8,Personal Auto,Luxury
+PY10605,Male,Bachelor,463310.13,0.0,70,0,336.0,Personal Auto,Two-Door Car
+JI82682,Female,High School or Below,248039.27,0.0,65,0,328.314222,Personal Auto,Four-Door Car
+BU14748,Male,High School or Below,361868.69,50755.0,91,0,436.8,Personal Auto,Two-Door Car
+QK18099,Female,College,537584.28,69050.0,67,0,334.892437,Personal Auto,Four-Door Car
+LD26428,Male,Bachelor,489329.15,0.0,73,0,680.047456,Corporate Auto,Four-Door Car
+MY43761,Male,High School or Below,1073768.43,50607.0,137,0,657.6,Personal Auto,SUV
+WQ89892,Female,College,260781.55,0.0,70,0,336.0,Special Auto,Two-Door Car
+GY55415,Female,Bachelor,1572525.05,0.0,149,0,1072.8,Corporate Auto,SUV
+IB42395,Male,College,955341.55,0.0,146,0,1051.2,Corporate Auto,SUV
+ZU74482,Male,College,750745.54,60920.0,64,0,231.201886,Personal Auto,Two-Door Car
+NL74789,Female,Bachelor,732492.82,0.0,105,0,504.0,Special Auto,Two-Door Car
+YU86594,Male,High School or Below,533303.81,55674.0,66,0,81.710575,Personal Auto,Four-Door Car
+QN37451,Male,College,1276723.06,0.0,189,0,2201.327879,Corporate Auto,Luxury
+GD83998,Male,Bachelor,265933.8,24495.0,70,0,336.0,Personal Auto,Four-Door Car
+IL83479,Female,College,348363.04,42983.0,86,0,412.8,Personal Auto,Four-Door Car
+EF87528,Male,College,463654.65,26802.0,66,0,316.8,Special Auto,Two-Door Car
+IV74747,Male,Doctor,1753003.66,0.0,97,0,469.229028,Corporate Auto,Four-Door Car
+JZ81608,Male,High School or Below,697871.98,53808.0,88,0,189.835063,Personal Auto,Four-Door Car
+EO40136,Female,College,291224.84,93403.0,73,0,295.224598,Personal Auto,Four-Door Car
+ZR40902,Female,Bachelor,420927.93,26435.0,111,0,1012.249308,Corporate Auto,Four-Door Car
+PO89542,Female,Bachelor,500980.89,0.0,68,0,326.4,Personal Auto,Four-Door Car
+FX57380,Female,Bachelor,521751.33,39854.0,66,0,261.930545,Personal Auto,Two-Door Car
+NM22175,Male,College,1149033.62,0.0,161,0,1052.933035,Personal Auto,SUV
+BC97773,Female,Master,286454.4,91368.0,71,0,395.328407,Personal Auto,Four-Door Car
+MN34012,Male,Bachelor,840391.02,0.0,115,0,552.0,Personal Auto,SUV
+KY29506,Female,College,2039596.88,92850.0,104,0,499.2,Personal Auto,Four-Door Car
+VU84949,Female,Bachelor,529263.25,0.0,70,0,336.0,Personal Auto,Two-Door Car
+HC20975,Male,Bachelor,1672777.19,30915.0,72,2,345.6,Personal Auto,Four-Door Car
+IF87079,Female,Master,580112.83,48927.0,72,0,139.354893,Personal Auto,Four-Door Car
+EP18940,Female,Bachelor,947297.38,0.0,86,0,412.8,Personal Auto,Four-Door Car
+SB44003,Female,College,1048491.54,61108.0,89,0,49.451117,Personal Auto,Four-Door Car
+MK15785,Male,Master,438731.09,48015.0,110,0,528.0,Corporate Auto,Luxury
+VP89545,Male,College,452288.35,0.0,61,0,292.8,Personal Auto,Four-Door Car
+HJ58678,Female,College,541815.21,57587.0,68,0,257.090387,Personal Auto,Four-Door Car
+MW80236,Male,Master,765149.3931451613,0.0,70,0,336.0,Personal Auto,Four-Door Car
+IA52178,Female,College,1578529.69,81119.0,196,0,940.8,Corporate Auto,SUV
+WC42895,Female,Bachelor,2211039.8,65724.0,70,0,14.518312,Personal Auto,Four-Door Car
+JP41935,Male,High School or Below,1359619.97,20128.0,70,2,336.0,Personal Auto,Four-Door Car
+YM77369,Male,High School or Below,475612.62,56146.0,119,0,401.785805,Corporate Auto,Four-Door Car
+WV15213,Male,Bachelor,244705.31,84658.0,62,0,44.780402,Personal Auto,Four-Door Car
+GX37592,Female,College,567592.33,33257.0,72,0,345.6,Personal Auto,Four-Door Car
+VM34210,Female,College,739903.21,0.0,101,0,337.617149,Personal Auto,SUV
+YJ59924,Male,College,730843.39,31115.0,92,0,441.6,Personal Auto,Four-Door Car
+OO35641,Female,College,3287174.78,78487.0,117,0,448.255019,Personal Auto,SUV
+EU54076,Male,Bachelor,522892.01,92472.0,65,0,240.221415,Corporate Auto,Four-Door Car
+QH56750,Male,High School or Below,2070086.45,0.0,64,0,460.8,Personal Auto,Four-Door Car
+PQ27923,Male,Master,633303.08,71737.0,79,0,338.79562,Personal Auto,Two-Door Car
+ES16126,Male,College,433038.6,60475.0,107,0,513.6,Personal Auto,Four-Door Car
+PG42834,Female,Bachelor,629273.54,26577.0,79,0,73.719521,Personal Auto,Four-Door Car
+OY44814,Male,High School or Below,491788.96,0.0,71,0,511.2,Personal Auto,Two-Door Car
+JI97190,Male,High School or Below,516581.0,43461.0,64,0,307.2,Personal Auto,Two-Door Car
+ZK61113,Male,High School or Below,629159.0,0.0,94,0,676.8,Personal Auto,Two-Door Car
+MU88116,Female,Master,458267.42,69085.0,113,0,472.271907,Corporate Auto,Luxury
+TP61305,Male,High School or Below,606244.16,0.0,84,0,604.8,Personal Auto,Four-Door Car
+ZY20779,Male,High School or Below,497907.99,0.0,71,0,340.8,Personal Auto,Two-Door Car
+KP65334,Female,College,583056.14,0.0,77,0,783.431945,Corporate Auto,Four-Door Car
+OH15677,Male,High School or Below,374257.91,0.0,110,0,1272.546918,Personal Auto,Luxury
+HB53755,Female,High School or Below,384959.67,0.0,106,0,763.2,Personal Auto,Luxury
+UF77079,Female,High School or Below,1526581.49,58361.0,95,0,43.599861,Personal Auto,Four-Door Car
+TD20252,Male,College,531780.72,74092.0,67,0,321.6,Personal Auto,Four-Door Car
+TH68362,Female,College,237480.92,0.0,64,0,380.822087,Corporate Auto,Four-Door Car
+TO34442,Male,College,553286.33,59768.0,71,0,340.8,Personal Auto,Four-Door Car
+MP96373,Male,Master,571978.57,54585.0,7575,0,340.8,Personal Auto,Two-Door Car
+CV72453,Female,High School or Below,451220.44,0.0,125,0,900.0,Corporate Auto,SUV
+OY92520,Female,Bachelor,726480.39,12075.0,94,0,451.2,Personal Auto,Four-Door Car
+UY95530,Male,College,865886.38,62464.0,109,0,400.181882,Personal Auto,Luxury
+FB84235,Male,College,549894.07,22520.0,73,0,350.4,Personal Auto,Four-Door Car
+MJ14480,Female,High School or Below,559938.29,35012.0,72,0,345.6,Personal Auto,Four-Door Car
+KW81128,Female,College,1522819.87,95140.0,126,0,45.049185,Personal Auto,Luxury
+DQ98402,Female,High School or Below,364483.36,82477.0,90,0,432.0,Corporate Auto,Two-Door Car
+WN53966,Male,Master,369344.08,85871.0,92,0,112.633539,Personal Auto,Four-Door Car
+QK69627,Female,High School or Below,938816.29,75264.0,78,0,343.340301,Personal Auto,Four-Door Car
+QC55306,Male,High School or Below,3116269.33,83170.0,97,0,344.118069,Personal Auto,Four-Door Car
+WV79842,Male,High School or Below,928373.78,24314.0,235,0,1128.0,Personal Auto,Luxury
+DF40318,Male,Master,255122.67,79751.0,63,0,392.235698,Corporate Auto,Two-Door Car
+TN90661,Male,High School or Below,581191.81,83318.0,72,0,345.6,Corporate Auto,Four-Door Car
+ZU88029,Female,Master,406467.06,26161.0,109,0,594.444586,Personal Auto,Luxury
+TQ88221,Female,Bachelor,284144.31,30473.0,72,0,450.080101,Corporate Auto,Four-Door Car
+KH34667,Male,College,683213.39,50472.0,87,0,281.163705,Corporate Auto,Four-Door Car
+HW54198,Male,Master,520197.14,94186.0,64,0,135.340489,Personal Auto,Four-Door Car
+GZ79662,Male,High School or Below,548458.82,47611.0,69,0,593.654484,Corporate Auto,Four-Door Car
+YA11342,Male,High School or Below,767268.14,0.0,103,0,518.720216,Personal Auto,Four-Door Car
+ZW18871,Male,High School or Below,827248.54,91245.0,69,0,19.251693,Corporate Auto,Four-Door Car
+QZ17137,Female,High School or Below,333067.28,45944.0,83,0,182.948495,Personal Auto,Two-Door Car
+UV53712,Female,College,556245.64,59649.0,69,0,167.738267,Personal Auto,Four-Door Car
+SJ43436,Female,Bachelor,245273.86,52785.0,61,0,45.721456,Corporate Auto,Two-Door Car
+VW46878,Female,High School or Below,792028.29,59648.0,66,0,316.8,Personal Auto,Four-Door Car
+TW91179,Female,College,386148.63,93272.0,95,0,281.110788,Corporate Auto,Four-Door Car
+LG19551,Male,Bachelor,576478.42,22134.0,72,0,445.879224,Corporate Auto,Four-Door Car
+AI49712,Female,High School or Below,259389.79,0.0,72,0,345.6,Personal Auto,Four-Door Car
+WN14473,Male,Master,288235.06,87798.0,71,0,204.448708,Personal Auto,Two-Door Car
+WH62198,Male,Bachelor,221318.79,0.0,63,0,305.552429,Personal Auto,Four-Door Car
+SP85148,Female,Master,942962.94,43811.0,117,0,571.136574,Personal Auto,Luxury
+FB49203,Female,College,623925.75,0.0,91,0,655.2,Corporate Auto,Two-Door Car
+FF94341,Female,Bachelor,766880.96,92456.0,95,0,456.0,Special Auto,Four-Door Car
+TS42594,Female,High School or Below,1377097.62,59207.0,116,0,556.8,Personal Auto,Four-Door Car
+IL43607,Female,High School or Below,274284.43,64519.0,69,0,331.2,Corporate Auto,Four-Door Car
+FL85008,Female,High School or Below,1346692.07,11432.0,119,0,571.2,Personal Auto,SUV
+AN47199,Female,College,885835.2,0.0,80,0,81.255741,Personal Auto,Two-Door Car
+SV28347,Male,High School or Below,848533.0,32607.0,111,0,532.8,Corporate Auto,SUV
+IC78105,Female,High School or Below,774464.44,26444.0,196,0,940.8,Personal Auto,Luxury
+RB28630,Female,High School or Below,589490.74,39381.0,74,0,355.2,Personal Auto,Four-Door Car
+KA32645,Male,College,577068.41,0.0,83,0,946.345269,Personal Auto,Four-Door Car
+QD73891,Male,High School or Below,526111.75,90217.0,66,0,316.8,Personal Auto,Four-Door Car
+LM58949,Male,High School or Below,240353.95,24248.0,70,3,336.0,Personal Auto,Four-Door Car
+YG40323,Male,Bachelor,912460.0,99368.0,113,0,82.427785,Personal Auto,Four-Door Car
+EP82214,Female,High School or Below,2618080.53,68189.0,82,0,343.121192,Special Auto,Four-Door Car
+EO91797,Female,Master,1564125.86,32370.0,130,0,487.736171,Corporate Auto,SUV
+RU50098,Female,Master,257402.04,34990.0,65,0,42.689135,Personal Auto,Four-Door Car
+QW10541,Female,High School or Below,531983.87,25714.0,67,0,321.6,Personal Auto,Two-Door Car
+SB50826,Male,College,749600.66,61091.0,95,0,409.868003,Personal Auto,Two-Door Car
+XX29952,Male,College,1217458.96,88184.0,104,3,240.176533,Personal Auto,Four-Door Car
+AT93647,Female,College,260557.08,60252.0,65,0,182.436205,Personal Auto,Four-Door Car
+QP56563,Male,College,270720.85,80985.0,67,0,124.933587,Personal Auto,Four-Door Car
+UF88986,Female,College,279490.75,39783.0,72,0,345.6,Personal Auto,Two-Door Car
+TY43440,Male,High School or Below,881901.89,99845.0,110,0,528.0,Personal Auto,SUV
+NJ15094,Female,Bachelor,534599.46,0.0,72,0,345.6,Personal Auto,Four-Door Car
+MM45334,Female,College,816951.4,40803.0,71,3,122.912377,Personal Auto,Four-Door Car
+KH93988,Female,College,770888.39,71134.0,98,3,196.37368,Personal Auto,Two-Door Car
+RY38931,Male,Bachelor,552821.28,36088.0,72,0,345.6,Personal Auto,Four-Door Car
+CV48634,Male,College,1212844.67,29431.0,103,0,237.896227,Personal Auto,SUV
+TN76120,Male,Bachelor,552821.28,36088.0,72,0,345.6,Personal Auto,Four-Door Car
+ZS96174,Male,College,679684.48,17937.0,65,0,312.0,Personal Auto,Two-Door Car
+MI62456,Female,Bachelor,286731.22,23376.0,78,0,374.4,Personal Auto,Four-Door Car
+DD44177,Female,Doctor,239557.0,21986.0,63,0,333.696228,Personal Auto,Two-Door Car
+NX31380,Female,Bachelor,709416.77,23032.0,89,0,427.2,Corporate Auto,Four-Door Car
+KQ43374,Female,College,412809.13,32114.0,104,0,445.29049,Corporate Auto,SUV
+XA54112,Male,Bachelor,404693.61,13330.0,117,0,561.6,Corporate Auto,SUV
+QB14087,Female,College,486928.28,44934.0,61,0,357.926979,Personal Auto,Four-Door Car
+FV42881,Female,College,290215.19,96137.0,73,2,67.490616,Corporate Auto,Two-Door Car
+AV76907,Female,College,428294.8,40864.0,109,0,166.937747,Personal Auto,SUV
+VM85555,Female,College,775012.03,22668.0,67,0,33.718553,Personal Auto,Four-Door Car
+ZU88113,Male,College,662717.46,90751.0,82,0,315.826382,Personal Auto,Two-Door Car
+SZ75668,Male,College,747460.58,44186.0,64,2,295.04969,Personal Auto,Four-Door Car
+MZ65087,Male,College,556129.14,92678.0,70,0,34.689611,Personal Auto,Four-Door Car
+EL61402,Female,Bachelor,609846.21,74257.0,76,0,214.586742,Personal Auto,Four-Door Car
+CJ31839,Male,Bachelor,285952.89,99981.0,71,0,204.872273,Special Auto,Four-Door Car
+XM11175,Male,College,599442.46,0.0,91,0,655.2,Personal Auto,Four-Door Car
+LF41085,Female,College,563524.95,19591.0,74,0,95.925021,Personal Auto,Two-Door Car
+MB19556,Female,College,506720.83,29095.0,127,0,664.280864,Personal Auto,SUV
+HC74532,Female,Bachelor,226328.46,0.0,62,0,389.750793,Corporate Auto,Four-Door Car
+SB66770,Male,Master,1443567.37,60880.0,119,0,109.906628,Corporate Auto,Two-Door Car
+JI25066,Female,Bachelor,492839.71,61785.0,61,0,271.10697,Personal Auto,Two-Door Car
+PY98958,Male,Bachelor,1203662.05,44428.0,104,0,499.2,Special Auto,SUV
+RA65645,Male,High School or Below,856476.82,95697.0,107,0,178.006524,Personal Auto,Luxury
+FQ79356,Female,Bachelor,236188.39,18064.0,63,2,182.964184,Personal Auto,Four-Door Car
+TM25808,Male,High School or Below,556569.33,74720.0,70,0,200.812425,Personal Auto,Two-Door Car
+XO46388,Female,Bachelor,514680.98,22594.0,67,0,321.6,Personal Auto,Four-Door Car
+LB81265,Female,Bachelor,293808.03,40987.0,73,0,329.013275,Personal Auto,Four-Door Car
+JR38787,Male,High School or Below,1443274.64,24561.0,126,0,853.473552,Personal Auto,SUV
+KZ22690,Female,College,1302741.98,76456.0,83,0,42.693918,Personal Auto,Four-Door Car
+NY49598,Male,College,245198.88,65828.0,62,0,297.6,Personal Auto,Four-Door Car
+KY39767,Female,College,466198.41,0.0,68,0,489.6,Personal Auto,Four-Door Car
+YU35386,Female,Bachelor,560001.02,63621.0,70,0,444.620265,Personal Auto,Four-Door Car
+TF82172,Male,College,401613.28,10074.0,107,0,108.995934,Corporate Auto,SUV
+ER40041,Female,College,2219580.3,78965.0,183,0,145.587985,Personal Auto,Luxury
+MS39869,Female,College,734335.37,0.0,68,0,479.028818,Personal Auto,Four-Door Car
+PV77906,Male,Bachelor,480451.43,23604.0,64,0,460.8,Corporate Auto,Two-Door Car
+QF21045,Female,College,273553.89,99205.0,68,0,323.246017,Personal Auto,Two-Door Car
+HF65914,Male,College,694097.28,0.0,92,0,441.6,Personal Auto,Two-Door Car
+AJ58038,Female,Bachelor,239621.93,0.0,66,2,433.160284,Corporate Auto,Four-Door Car
+ZR88383,Female,College,538089.86,55350.0,67,0,321.6,Personal Auto,Four-Door Car
+OT49339,Male,College,843281.57,21052.0,111,0,453.578343,Corporate Auto,SUV
+FI74985,Female,High School or Below,755650.75,0.0,69,0,496.8,Personal Auto,Four-Door Car
+JW15301,Male,High School or Below,778743.17,24664.0,69,0,496.8,Corporate Auto,Four-Door Car
+PY20159,Male,College,478781.29,45225.0,124,0,209.176923,Corporate Auto,Luxury
+NC42524,Male,College,970764.76,30430.0,86,0,425.662574,Special Auto,Four-Door Car
+ZG19911,Female,Bachelor,255222.62,35149.0,64,0,120.477298,Personal Auto,Two-Door Car
+DI89983,Male,Bachelor,522342.93,16513.0,71,0,340.8,Personal Auto,Four-Door Car
+IG56214,Male,High School or Below,501044.93,10892.0,66,0,316.8,Personal Auto,Four-Door Car
+CA86085,Male,High School or Below,560831.63,67176.0,72,0,345.6,Personal Auto,Four-Door Car
+UO95739,Male,College,445793.63,54704.0,113,0,468.176056,Personal Auto,SUV
+SB64873,Male,Doctor,820078.73,25381.0,71,0,340.8,Personal Auto,Four-Door Car
+TE82896,Female,High School or Below,274608.01,0.0,74,0,355.2,Personal Auto,Four-Door Car
+VY64199,Female,Bachelor,1021577.92,18150.0,67,0,220.304649,Corporate Auto,Four-Door Car
+IE82679,Male,Bachelor,245357.08,29735.0,69,0,331.2,Personal Auto,Four-Door Car
+SL70257,Female,College,587295.88,77156.0,73,0,445.817914,Personal Auto,Four-Door Car
+XJ85947,Female,College,311892.79,88782.0,78,0,357.757645,Personal Auto,Four-Door Car
+EF84269,Female,College,556865.65,51489.0,139,0,236.739322,Personal Auto,SUV
+NY91328,Female,Bachelor,902971.47,16972.0,125,0,600.0,Personal Auto,SUV
+AT49447,Male,Bachelor,759182.72,99359.0,95,0,233.265397,Personal Auto,Two-Door Car
+BM70908,Male,College,225531.29,58289.0,62,4,297.6,Personal Auto,Two-Door Car
+GM63998,Female,Doctor,3261369.04,45173.0,268,0,1286.4,Personal Auto,Luxury
+AR61426,Female,Bachelor,944564.95,93246.0,78,0,41.628869,Personal Auto,Two-Door Car
+CB62406,Male,High School or Below,680359.68,43758.0,171,0,1129.929433,Corporate Auto,SUV
+WH82416,Male,Bachelor,976621.71,75651.0,81,0,375.11129,Personal Auto,Four-Door Car
+UI53874,Female,Doctor,729484.61,0.0,67,0,321.6,Personal Auto,Four-Door Car
+LM44949,Female,Doctor,568251.53,36938.0,70,0,244.801119,Special Auto,Four-Door Car
+JR59597,Male,Bachelor,633294.18,50843.0,82,0,393.6,Personal Auto,Two-Door Car
+ZS22428,Female,Bachelor,491657.7,21907.0,62,0,2.96438,Personal Auto,Four-Door Car
+AZ34845,Female,Bachelor,479824.09,77846.0,119,0,342.471939,Personal Auto,Luxury
+XZ34917,Male,Bachelor,564380.24,41043.0,72,0,345.6,Personal Auto,Four-Door Car
+QU20310,Female,High School or Below,924746.44,97030.0,76,0,416.637499,Corporate Auto,Four-Door Car
+NQ42020,Male,High School or Below,732292.89,80864.0,182,0,618.210272,Personal Auto,Luxury
+ZF40143,Female,College,827590.01,48197.0,106,0,508.8,Personal Auto,Four-Door Car
+GU65780,Male,Doctor,563540.37,70837.0,73,4,362.743231,Personal Auto,Four-Door Car
+KY32675,Male,High School or Below,1497028.51,85297.0,93,0,620.011594,Special Auto,Two-Door Car
+ZX35838,Female,Master,933633.69,70177.0,115,0,225.517666,Personal Auto,Four-Door Car
+LU42720,Male,College,4835696.08,52499.0,138,0,1171.537594,Personal Auto,SUV
+FB25242,Male,College,568691.53,63143.0,71,0,340.8,Corporate Auto,Four-Door Car
+RW51650,Male,Bachelor,862283.54,97361.0,73,0,350.4,Personal Auto,Four-Door Car
+XX94684,Male,High School or Below,507967.48,50052.0,130,0,624.0,Personal Auto,Luxury
+AH99727,Female,Bachelor,562331.45,11612.0,71,0,340.8,Personal Auto,Four-Door Car
+NZ85858,Female,High School or Below,527001.36,78115.0,65,0,255.454322,Personal Auto,Four-Door Car
+JU19953,Female,Master,862117.22,81947.0,71,0,203.993499,Personal Auto,Two-Door Car
+LC33025,Male,College,791833.49,44698.0,211,4,1012.8,Personal Auto,Luxury
+BV86143,Female,High School or Below,2103401.82,26876.0,66,0,219.209762,Personal Auto,Four-Door Car
+AY88788,Female,College,1541768.22,69841.0,192,0,878.812468,Personal Auto,Luxury
+OJ33945,Female,High School or Below,869263.68,97768.0,72,0,151.843731,Personal Auto,Two-Door Car
+LO84523,Male,High School or Below,650314.39,0.0,187,0,1588.682955,Personal Auto,Luxury
+HZ25580,Female,High School or Below,239619.24,39062.0,61,0,346.991025,Corporate Auto,Two-Door Car
+AR96516,Female,Bachelor,591495.18,50217.0,74,0,355.2,Personal Auto,Two-Door Car
+JP69864,Female,Bachelor,224844.96,24910.0,63,0,347.857619,Personal Auto,Four-Door Car
+DL26809,Male,College,682679.77,0.0,68,0,489.6,Personal Auto,Two-Door Car
+MV69686,Female,Doctor,398218.07,38500.0,99,0,423.286512,Corporate Auto,Four-Door Car
+SC95565,Female,High School or Below,288777.97,62018.0,71,0,293.865315,Personal Auto,Two-Door Car
+RL31641,Female,College,225241.68,0.0,65,0,468.0,Personal Auto,Two-Door Car
+OH83248,Male,Master,845853.13,57394.0,106,0,316.492058,Personal Auto,Four-Door Car
+DB28979,Male,Bachelor,747831.37,23530.0,65,0,312.0,Corporate Auto,Two-Door Car
+ZS32263,Female,High School or Below,378864.98,48887.0,95,0,456.0,Personal Auto,Four-Door Car
+IY59173,Female,Master,522068.53,68867.0,129,0,619.2,Personal Auto,SUV
+KL17620,Female,College,713029.48,12062.0,63,0,302.4,Corporate Auto,Four-Door Car
+CP28581,Male,College,851359.27,59230.0,107,0,245.076091,Personal Auto,SUV
+QR15592,Female,Bachelor,566013.38,59586.0,72,0,91.198362,Personal Auto,Four-Door Car
+RI85578,Female,Bachelor,263814.01,79699.0,65,0,348.82656,Personal Auto,Two-Door Car
+TG68823,Female,Bachelor,531889.66,25134.0,67,0,321.6,Personal Auto,Four-Door Car
+WO78310,Female,College,416016.26,0.0,61,0,292.8,Personal Auto,Four-Door Car
+SC78905,Female,College,223734.78,0.0,61,0,292.8,Personal Auto,Four-Door Car
+EL88957,Male,College,346012.3,0.0,100,0,720.0,Personal Auto,SUV
+SS54050,Male,Bachelor,1600550.51,44901.0,70,2,460.806124,Personal Auto,Four-Door Car
+ZV99487,Female,Bachelor,698660.37,0.0,93,0,149.269407,Personal Auto,Four-Door Car
+XI51746,Female,Bachelor,882696.15,28463.0,113,2,324.317667,Personal Auto,SUV
+KG85675,Female,Bachelor,472686.93,13037.0,124,0,839.348464,Personal Auto,SUV
+KK64803,Male,High School or Below,2744347.48,82320.0,99,0,475.2,Personal Auto,Four-Door Car
+OM80593,Female,Bachelor,724731.35,0.0,104,0,499.2,Personal Auto,SUV
+RL59810,Female,College,513785.21,78460.0,64,0,203.568733,Personal Auto,Four-Door Car
+QQ53360,Male,College,273905.72,0.0,92,4,657.290491,Personal Auto,Two-Door Car
+WR76339,Male,College,509279.39,46922.0,64,0,403.385123,Corporate Auto,Two-Door Car
+BA40043,Male,College,579982.68,60689.0,74,0,5.746657,Corporate Auto,Four-Door Car
+MK52197,Female,Master,550706.32,0.0,71,0,340.8,Personal Auto,Four-Door Car
+SV48204,Female,College,1048491.54,61108.0,89,0,49.451117,Personal Auto,Four-Door Car
+RJ79502,Male,Bachelor,850128.0,98003.0,107,0,449.408637,Personal Auto,SUV
+LY14355,Female,High School or Below,293598.83,73847.0,73,0,350.4,Personal Auto,Two-Door Car
+NL32558,Female,High School or Below,650339.7,22081.0,84,0,451.670309,Personal Auto,Two-Door Car
+CP92616,Male,High School or Below,4680522.31,83006.0,235,0,1065.049894,Personal Auto,Luxury
+BP28492,Female,College,483471.05,38713.0,66,4,316.8,Corporate Auto,Four-Door Car
+MX28412,Female,College,257532.37,28700.0,68,3,326.4,Personal Auto,Four-Door Car
+DT99586,Female,Master,3711165.95,61552.0,115,0,12.252847,Personal Auto,SUV
+IC41932,Male,College,437119.04,56718.0,113,0,542.4,Personal Auto,SUV
+DA35744,Male,Doctor,1679633.6,66776.0,71,0,131.808343,Corporate Auto,Four-Door Car
+GU96042,Male,High School or Below,798850.64,58268.0,67,0,228.641342,Corporate Auto,Two-Door Car
+UW98698,Male,College,226984.11,0.0,68,0,542.016902,Personal Auto,Four-Door Car
+SF32458,Male,Doctor,499147.2,12608.0,66,0,214.866605,Personal Auto,Four-Door Car
+OM85313,Male,Master,292193.09,63499.0,73,0,278.964095,Personal Auto,Four-Door Car
+MH81246,Male,High School or Below,761319.31,36247.0,96,0,329.522858,Corporate Auto,Four-Door Car
+OH99089,Female,Master,582740.97,30228.0,73,0,163.345647,Personal Auto,Four-Door Car
+TG57800,Female,College,260064.12,0.0,74,0,501.472124,Personal Auto,Two-Door Car
+GX19342,Female,High School or Below,849146.57,0.0,116,0,1193.115879,Personal Auto,Four-Door Car
+XE39286,Female,Bachelor,977873.36,99364.0,121,0,580.8,Personal Auto,Luxury
+JA93297,Male,Bachelor,2265853.65,23665.0,67,0,404.817249,Personal Auto,Four-Door Car
+II37789,Female,College,1000402.76,0.0,94,0,807.168846,Corporate Auto,Four-Door Car
+IC32996,Male,High School or Below,487277.44,69247.0,61,0,226.522147,Corporate Auto,Two-Door Car
+LO67195,Female,College,744481.46,56047.0,92,0,82.733588,Corporate Auto,Four-Door Car
+PG93638,Male,College,576111.12,28919.0,73,0,207.828024,Personal Auto,Two-Door Car
+OZ41737,Female,Doctor,536677.91,0.0,70,0,223.174067,Personal Auto,Four-Door Car
+OY66019,Female,College,625947.78,0.0,83,0,254.142365,Personal Auto,Four-Door Car
+CH73843,Male,High School or Below,762358.07,69900.0,64,0,33.97,Personal Auto,Two-Door Car
+XT93203,Male,High School or Below,1096395.72,55687.0,276,0,1324.8,Personal Auto,Luxury
+OR85652,Female,Bachelor,742784.51,78294.0,92,0,181.148732,Personal Auto,Four-Door Car
+LR10110,Female,Bachelor,550413.9,0.0,73,0,350.4,Corporate Auto,Four-Door Car
+XK11432,Male,Bachelor,466512.96,0.0,62,0,297.6,Personal Auto,Two-Door Car
+OX24868,Female,High School or Below,602184.25,0.0,168,0,1476.670903,Personal Auto,SUV
+EZ74530,Male,High School or Below,307410.55,0.0,104,3,748.8,Personal Auto,Luxury
+HP46467,Female,College,495308.64,21385.0,127,0,609.6,Corporate Auto,SUV
+KP54476,Male,Master,778048.93,87128.0,97,0,495.612777,Personal Auto,Two-Door Car
+AI47152,Female,College,799277.91,35434.0,66,0,297.051768,Personal Auto,Four-Door Car
+BU15334,Female,Master,417068.73,29462.0,107,0,513.6,Corporate Auto,SUV
+GD59796,Female,College,2322823.67,53243.0,102,3,489.6,Personal Auto,Four-Door Car
+OX59701,Male,High School or Below,544581.7,21006.0,139,0,667.2,Personal Auto,SUV
+OD63728,Female,College,455849.84,0.0,65,0,312.0,Personal Auto,Two-Door Car
+JC38573,Male,Bachelor,552821.28,36088.0,72,0,345.6,Corporate Auto,Four-Door Car
+RC11491,Female,College,1039066.65,28948.0,131,0,295.83086,Corporate Auto,SUV
+RZ24101,Female,College,714254.91,24417.0,185,0,888.0,Personal Auto,SUV
+OB88698,Male,High School or Below,546954.3,67099.0,69,0,22.995594,Personal Auto,Two-Door Car
+IK92617,Female,Bachelor,1162873.4,97830.0,96,0,298.362415,Personal Auto,Four-Door Car
+YH43996,Male,College,1018965.43,0.0,101,0,727.2,Personal Auto,Four-Door Car
+BJ65040,Female,High School or Below,273343.19,93558.0,67,0,478.234236,Personal Auto,Four-Door Car
+WY57101,Female,Doctor,401445.31,37384.0,99,0,475.2,Personal Auto,Four-Door Car
+OG77759,Male,Bachelor,711953.19,28227.0,62,0,551.28213,Personal Auto,Four-Door Car
+HN38084,Male,High School or Below,1177279.07,51008.0,74,0,355.2,Corporate Auto,Two-Door Car
+GD11927,Male,High School or Below,238179.08,78185.0,61,0,292.8,Personal Auto,Four-Door Car
+MC20349,Female,Bachelor,520835.39,0.0,74,0,532.8,Personal Auto,Four-Door Car
+HM22034,Male,College,501872.79,0.0,68,0,670.47746,Personal Auto,Four-Door Car
+KH48996,Female,Bachelor,1190054.48,97205.0,100,2,5.573179,Personal Auto,Luxury
+VF32979,Female,Bachelor,580017.19,25472.0,73,0,350.4,Corporate Auto,Four-Door Car
+LS90887,Female,Bachelor,567438.12,26225.0,72,0,320.777404,Special Auto,Four-Door Car
+EN72010,Male,College,727143.4,20545.0,70,0,336.0,Personal Auto,Two-Door Car
+KH44031,Female,Master,316449.4,0.0,83,0,398.4,Personal Auto,Four-Door Car
+GJ47896,Female,College,266103.34,35503.0,67,0,216.173135,Personal Auto,Two-Door Car
+GD87742,Female,College,1414055.89,58988.0,118,0,566.4,Personal Auto,Luxury
+MD14027,Female,Bachelor,765422.71,0.0,74,0,355.2,Personal Auto,Two-Door Car
+XA32915,Male,High School or Below,219973.95,0.0,64,0,685.456738,Personal Auto,Two-Door Car
+XR52852,Female,College,200435.07,0.0,66,4,316.8,Special Auto,Four-Door Car
+EZ48947,Male,College,1311111.32,67197.0,111,0,147.948783,Special Auto,SUV
+OJ50322,Male,High School or Below,1576260.35,39032.0,198,0,950.4,Personal Auto,SUV
+XB77333,Female,College,1319792.89,0.0,68,3,326.4,Personal Auto,Four-Door Car
+QB58745,Male,High School or Below,278753.98,34927.0,70,0,242.491357,Personal Auto,Two-Door Car
+IG62421,Male,Doctor,343613.43,30817.0,88,0,91.834668,Personal Auto,Four-Door Car
+SF29724,Female,Bachelor,271336.8,31535.0,70,0,90.525716,Personal Auto,Four-Door Car
+WM95454,Female,Bachelor,286731.22,23376.0,78,0,374.4,Personal Auto,Four-Door Car
+CB96381,Female,College,1459024.58,46244.0,62,0,255.285875,Corporate Auto,Four-Door Car
+MJ60422,Male,Bachelor,665247.45,34886.0,84,0,403.2,Personal Auto,Two-Door Car
+NC63295,Male,High School or Below,244462.11,0.0,66,0,316.8,Corporate Auto,Four-Door Car
+CM55703,Female,College,289691.88,33746.0,74,0,355.2,Personal Auto,Two-Door Car
+ZE76673,Male,Doctor,1097206.78,24164.0,137,0,657.6,Personal Auto,Luxury
+TO60700,Female,Bachelor,765149.3931451613,25859.0,74,0,355.2,Special Auto,Four-Door Car
+WF34690,Female,Bachelor,1935737.2,0.0,68,0,326.4,Personal Auto,Four-Door Car
+ZM28138,Female,Bachelor,722712.04,40153.0,61,0,340.07498,Personal Auto,Four-Door Car
+FI14842,Female,College,785730.39,0.0,104,0,499.2,Personal Auto,SUV
+KC32511,Female,Master,518162.09,97131.0,64,0,307.2,Personal Auto,Four-Door Car
+NE10467,Female,High School or Below,428106.22,23712.0,106,0,508.8,Corporate Auto,SUV
+PT93474,Female,Bachelor,1151316.29,0.0,64,0,307.2,Personal Auto,Four-Door Car
+RL74454,Female,Bachelor,514711.02,33171.0,65,0,236.643695,Personal Auto,Four-Door Car
+DQ31994,Female,College,866349.76,0.0,83,0,398.4,Corporate Auto,Four-Door Car
+DN98431,Female,High School or Below,253532.17,0.0,68,0,326.4,Corporate Auto,Four-Door Car
+EV53200,Male,College,2150433.88,60228.0,112,0,286.102971,Personal Auto,SUV
+AJ89107,Male,High School or Below,734932.85,27072.0,93,0,565.336931,Personal Auto,Four-Door Car
+WS25565,Male,Master,850985.09,26057.0,74,0,523.888845,Personal Auto,Four-Door Car
+ZY33234,Female,High School or Below,429718.91,66331.0,107,0,513.6,Personal Auto,Two-Door Car
+PS69748,Male,College,871704.98,83846.0,74,3,355.2,Personal Auto,Four-Door Car
+HL33607,Male,College,871704.98,83846.0,74,3,355.2,Personal Auto,Four-Door Car
+DG90902,Female,College,1747664.14,45106.0,73,0,350.4,Personal Auto,Four-Door Car
+SW96063,Female,Bachelor,1047989.97,78435.0,130,0,553.61131,Personal Auto,SUV
+CP19929,Female,Bachelor,224257.44,0.0,63,0,453.6,Corporate Auto,Two-Door Car
+KR50062,Male,College,275445.68,79507.0,70,3,442.199439,Personal Auto,Two-Door Car
+CU19735,Male,High School or Below,804120.06,44986.0,101,0,624.023564,Corporate Auto,SUV
+ST52914,Male,College,604291.19,25899.0,79,0,568.8,Personal Auto,Two-Door Car
+WQ68301,Male,Bachelor,282743.89,13610.0,74,0,355.2,Personal Auto,Four-Door Car
+LR33381,Male,Doctor,2204185.64,0.0,65,0,312.0,Personal Auto,Four-Door Car
+UR36912,Male,Bachelor,279680.22,77362.0,70,0,386.599797,Personal Auto,Two-Door Car
+SK46419,Male,High School or Below,407284.94,96443.0,102,0,489.6,Personal Auto,SUV
+BY88757,Male,Master,518246.23,0.0,135,0,939.528475,Personal Auto,SUV
+ER65086,Male,Doctor,613166.32,90778.0,76,0,62.291009,Personal Auto,Four-Door Car
+TP87527,Female,High School or Below,239213.11,0.0,65,0,361.181122,Corporate Auto,Four-Door Car
+VL80291,Female,Master,320966.3,78494.0,79,0,122.305677,Personal Auto,Two-Door Car
+WL45773,Female,Doctor,280860.6,83497.0,69,0,196.523187,Special Auto,Four-Door Car
+TT36693,Male,College,436293.12,58842.0,110,0,528.0,Personal Auto,Four-Door Car
+PT12544,Male,College,688046.89,63935.0,87,0,221.61885,Personal Auto,Four-Door Car
+CI24326,Male,Bachelor,359106.67,0.0,96,0,460.8,Personal Auto,Four-Door Car
+YQ73717,Male,High School or Below,520125.22,0.0,69,0,331.2,Personal Auto,Four-Door Car
+FG99706,Female,College,552154.26,0.0,77,0,369.6,Personal Auto,Four-Door Car
+OM63414,Female,Bachelor,507165.15,62258.0,65,0,117.450428,Personal Auto,Two-Door Car
+JQ74890,Male,Bachelor,292168.14,0.0,80,0,739.310493,Corporate Auto,Four-Door Car
+FP93662,Female,Master,1580653.4,58516.0,98,0,470.4,Corporate Auto,Two-Door Car
+SA40041,Female,Bachelor,574988.38,22814.0,73,0,360.773462,Personal Auto,Four-Door Car
+EW82164,Female,Bachelor,416741.96,56901.0,104,0,499.2,Personal Auto,SUV
+KV99550,Male,High School or Below,651495.4,0.0,61,0,292.8,Personal Auto,Four-Door Car
+CA96230,Male,Doctor,918951.83,99443.0,117,4,228.049424,Personal Auto,SUV
+QN17712,Female,College,823122.34,0.0,113,0,373.073162,Personal Auto,SUV
+KM79894,Male,Master,309517.54,88246.0,77,0,428.608683,Corporate Auto,Four-Door Car
+KR25511,Male,High School or Below,600521.48,26876.0,76,0,364.8,Corporate Auto,Four-Door Car
+DZ45471,Male,College,758211.38,64801.0,64,0,268.471802,Personal Auto,Four-Door Car
+DE18949,Female,College,1634460.81,57029.0,68,0,135.788525,Corporate Auto,Two-Door Car
+BN74268,Female,College,1176315.25,28045.0,99,0,475.2,Personal Auto,Four-Door Car
+QJ93301,Male,Master,405337.38,44661.0,101,0,436.836944,Personal Auto,Two-Door Car
+OO92815,Female,High School or Below,331115.79,21246.0,83,0,398.4,Personal Auto,Four-Door Car
+HV50891,Male,Doctor,352804.43,31278.0,92,4,441.6,Personal Auto,Two-Door Car
+RK59543,Female,High School or Below,559538.99,74454.0,71,0,340.8,Personal Auto,Four-Door Car
+IH54239,Male,Master,508969.43,62474.0,63,0,112.120881,Personal Auto,Four-Door Car
+GB14456,Male,High School or Below,2233716.31,0.0,130,0,1376.910777,Personal Auto,SUV
+RC95515,Male,College,479283.05,20647.0,63,0,185.061408,Personal Auto,Four-Door Car
+TI61458,Female,Bachelor,2778969.24,33806.0,89,0,395.729716,Personal Auto,Four-Door Car
+RB49468,Female,Bachelor,751166.06,0.0,70,0,340.201412,Personal Auto,Four-Door Car
+SJ18454,Male,High School or Below,1876755.16,0.0,111,0,900.14526,Personal Auto,Luxury
+KC19420,Female,College,498764.31,19589.0,127,0,1027.010512,Personal Auto,SUV
+TP12241,Female,College,512319.68,22338.0,67,0,307.801098,Personal Auto,Two-Door Car
+BD89564,Male,College,598977.39,66839.0,154,0,739.2,Personal Auto,Luxury
+EC71986,Female,High School or Below,242928.05,26736.0,63,0,367.92773,Personal Auto,Four-Door Car
+CJ97736,Female,College,582818.22,31364.0,74,0,461.269135,Personal Auto,Four-Door Car
+QF59448,Male,College,283158.77,17752.0,77,0,369.6,Personal Auto,Four-Door Car
+YB70005,Male,College,976793.69,36225.0,123,0,221.048602,Special Auto,SUV
+QI40455,Female,Doctor,1209791.22,0.0,107,0,271.014511,Personal Auto,SUV
+YL72747,Male,High School or Below,226531.86,0.0,61,0,292.8,Personal Auto,Four-Door Car
+FL18392,Female,Bachelor,571908.87,77601.0,71,0,276.640352,Personal Auto,Two-Door Car
+AL21967,Male,Master,1017147.78,74243.0,84,0,71.311211,Corporate Auto,Four-Door Car
+KC67431,Female,College,1051715.64,46707.0,133,0,80.70505,Personal Auto,Luxury
+EG40823,Female,Bachelor,430347.14,0.0,116,0,765.566699,Personal Auto,SUV
+QO89177,Male,College,1192675.33,50234.0,101,0,484.8,Personal Auto,Four-Door Car
+AV72430,Male,Master,1653170.38,75526.0,103,0,494.4,Personal Auto,Four-Door Car
+TL18087,Male,Bachelor,305928.21,65083.0,77,0,369.6,Personal Auto,Four-Door Car
+WI29961,Male,High School or Below,543744.37,28343.0,69,0,331.2,Personal Auto,Two-Door Car
+ZR11692,Male,Bachelor,510329.66,74948.0,64,0,216.744457,Corporate Auto,Four-Door Car
+No36572,Male,High School or Below,458310.09,22728.0,116,0,556.8,Personal Auto,Four-Door Car
+YZ56105,Female,High School or Below,640962.75,0.0,99,2,712.8,Personal Auto,Two-Door Car
+MN62189,Female,High School or Below,899198.45,17331.0,117,0,1138.255325,Personal Auto,SUV
+MQ32284,Female,College,1223277.63,35133.0,102,0,692.962785,Personal Auto,SUV
+NS38229,Female,College,512603.89,63147.0,64,0,87.565229,Personal Auto,Four-Door Car
+IB41597,Female,College,1101416.36,67575.0,91,0,401.60781,Personal Auto,Four-Door Car
+IP68868,Male,High School or Below,381961.95,0.0,111,0,799.2,Personal Auto,Two-Door Car
+EL70257,Female,High School or Below,840439.51,48315.0,71,0,340.8,Personal Auto,Four-Door Car
+NB27041,Female,High School or Below,903567.11,34337.0,113,0,542.4,Corporate Auto,Four-Door Car
+BM28359,Male,High School or Below,545370.76,33818.0,72,4,341.878002,Personal Auto,Four-Door Car
+VB77950,Female,High School or Below,376636.66,22439.0,98,0,470.4,Personal Auto,Four-Door Car
+PE47967,Female,College,728393.44,79055.0,186,0,177.635183,Personal Auto,Luxury
+QR47308,Female,College,274524.98,45191.0,69,0,330.782934,Personal Auto,Four-Door Car
+YU49449,Male,Bachelor,262627.94,41990.0,66,0,316.8,Personal Auto,Four-Door Car
+KN25124,Female,Master,245681.66,50979.0,61,0,262.842655,Personal Auto,Two-Door Car
+HI51182,Female,College,845367.77,59888.0,106,0,712.682559,Personal Auto,Four-Door Car
+MS18916,Male,College,350856.95,20978.0,98,0,1176.2788,Personal Auto,Four-Door Car
+IE40701,Male,High School or Below,287735.43,32807.0,73,0,350.4,Personal Auto,Four-Door Car
+UT48216,Male,College,784016.58,58414.0,210,2,1008.0,Personal Auto,Luxury
+VN92740,Female,College,277104.5,50071.0,71,0,18.918935,Corporate Auto,Two-Door Car
+IZ55070,Female,High School or Below,533948.83,67796.0,69,4,331.2,Personal Auto,Four-Door Car
+HI74419,Male,College,809287.7,50825.0,102,0,369.614729,Personal Auto,SUV
+MP76478,Female,High School or Below,864650.41,64125.0,108,0,369.818708,Corporate Auto,SUV
+DY30071,Male,Bachelor,565923.84,69387.0,71,0,71.517444,Personal Auto,Four-Door Car
+ZN24083,Male,Doctor,553246.23,29084.0,71,0,492.088331,Corporate Auto,Four-Door Car
+JU74347,Male,Bachelor,794351.33,60214.0,100,0,291.287905,Corporate Auto,Luxury
+YJ35850,Male,High School or Below,977460.58,96018.0,122,0,390.88142,Personal Auto,SUV
+IE15348,Female,High School or Below,406700.47,28466.0,102,0,371.802628,Personal Auto,SUV
+GP67816,Female,High School or Below,2320839.42,60233.0,116,0,481.265179,Personal Auto,Two-Door Car
+PW51793,Male,Bachelor,732589.27,52920.0,93,0,1101.05432,Personal Auto,Four-Door Car
+UF59346,Male,Bachelor,417034.07,90310.0,104,0,166.355491,Personal Auto,SUV
+FG29932,Male,College,784016.58,58414.0,210,2,1008.0,Special Auto,Luxury
+UX71137,Female,Doctor,887596.55,69205.0,110,0,372.362565,Personal Auto,Four-Door Car
+BY54111,Male,High School or Below,1937890.78,21159.0,73,0,350.4,Personal Auto,Four-Door Car
+RM83767,Male,College,597099.57,64008.0,85,5,372.893812,Personal Auto,Four-Door Car
+PT15464,Female,Bachelor,914887.79,68236.0,114,0,20.725611,Personal Auto,SUV
+BP92643,Female,High School or Below,1377097.62,59207.0,116,0,556.8,Personal Auto,Four-Door Car
+BW94308,Female,High School or Below,2009689.34,92766.0,71,0,379.029102,Personal Auto,Two-Door Car
+GQ46925,Male,High School or Below,582168.43,77563.0,143,0,545.999699,Personal Auto,Luxury
+RF14806,Female,College,309580.34,33415.0,78,0,374.4,Personal Auto,Four-Door Car
+KJ23009,Female,Bachelor,1059854.25,20179.0,133,0,638.4,Corporate Auto,SUV
+IB81655,Male,Bachelor,769512.3,50147.0,101,0,484.8,Personal Auto,SUV
+SV62436,Female,Bachelor,304179.16,13789.0,79,0,379.2,Personal Auto,Four-Door Car
+HR64684,Male,Master,868982.25,0.0,99,5,475.2,Personal Auto,Four-Door Car
+QS96715,Female,High School or Below,813177.92,93715.0,102,2,254.83769,Personal Auto,SUV
+SW55711,Male,High School or Below,381532.16,23540.0,103,2,494.4,Corporate Auto,Two-Door Car
+LZ19268,Female,College,1163889.95,25370.0,102,0,489.6,Personal Auto,Luxury
+FU74983,Female,Bachelor,2280053.54,68771.0,96,0,276.268778,Personal Auto,Four-Door Car
+KB99097,Female,Bachelor,446299.7,0.0,73,3,350.4,Special Auto,Two-Door Car
+AP52126,Female,College,1315183.2,68562.0,108,0,228.498823,Personal Auto,SUV
+EX61844,Male,High School or Below,1401997.55,36733.0,71,0,327.078047,Personal Auto,Four-Door Car
+QC30857,Female,College,293115.52,45768.0,73,0,191.934494,Personal Auto,Two-Door Car
+RT69513,Female,Bachelor,477475.17,0.0,64,0,307.2,Personal Auto,Four-Door Car
+HV85198,Male,Master,847141.75,63513.0,70,0,185.667213,Personal Auto,Four-Door Car
+BS91566,Female,College,543121.91,58161.0,68,0,140.747286,Corporate Auto,Four-Door Car
+IL40123,Female,College,568964.41,83640.0,70,0,471.050488,Corporate Auto,Two-Door Car
+MY32149,Female,Master,368672.38,0.0,96,0,28.460568,Personal Auto,Two-Door Car
+SA91515,Male,Bachelor,399258.39,0.0,111,0,700.349052,Personal Auto,SUV
